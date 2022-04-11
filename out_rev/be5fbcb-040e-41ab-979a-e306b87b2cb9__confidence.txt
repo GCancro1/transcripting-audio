@@ -1,0 +1,12 @@
+	Speaker 1: Hello (91.00%), this (66.00%) is (63.00%) has (56.00%) company (84.00%). How (93.00%) may (97.00%) I (93.00%) help (61.00%) you (94.00%)? 
+
+	Speaker 2: I (80.00%) use (83.00%) your (92.00%) company's (96.00%) PC (85.00%), but (92.00%) my (93.00%) PC (96.00%) is (90.00%) order (84.00%). 
+
+	Speaker 1: I (98.00%) understand (99.00%). Well (56.00%), could (99.00%) you (97.00%) call (99.00%) company's (90.00%) window (95.00%)? 
+
+	Speaker 2: Okay (97.00%). Can (94.00%) you (96.00%) tell (93.00%) me (94.00%) the (95.00%) phone (95.00%) number (95.00%)? 
+
+	Speaker 1: Of (72.00%) course (85.00%), one zero zero one nine nine nine (37.00%). 
+
+	Speaker 2: Thanks (62.00%). I (87.00%) call (88.00%) you (80.00%) later (76.00%).
+

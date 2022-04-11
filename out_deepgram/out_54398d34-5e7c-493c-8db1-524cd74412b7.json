@@ -1,0 +1,4024 @@
+{
+    "metadata": {
+      "transaction_key": "rNmNpWs3praAs96kR8Poxy8nll2KsiQHYY4KZMjgnFeXS3GC/PwFoG2epjPy0DtzWVdlGHDIRHlqcs6yvmmQQUXKkFqyASmW6ozTa/myg/wjrd9egUyQq6ScH5Wqdjc0wetkyVbseUtrP2n7yeSH3XeIK9USeEmfeurVMDac5o1qpI70PudSi4QwHBaNxcHc4Ugf6s7zcHh/89hJqdoJb0lRZMni7RQ0dnCWqcyaixzE3ZYAyTz64/143ne5AdQAsPXZJTjsVGpKiweO2UgA1hhGNM/O25g6pd2iiK2J2aeyiofGQtoVUzOEBfWCm1425/VVGN87T27fL8h6s3a6/eAGfefYYL0qO81aCTY6r/NHvzDmHf7topHIIq/JJtK2PO1hLgIq",
+      "request_id": "4a353196-2e09-497f-86f2-d6a339572aae",
+      "sha256": "da51077fa068f79c4f6be472dd357f5dc754afa2268b0199fe066874f98bd55e",
+      "created": "2022-03-31T18:39:55.950Z",
+      "duration": 276.22437,
+      "channels": 1,
+      "models": [
+        "4899aa60-f723-4517-9815-2042acc12a82"
+      ]
+    },
+    "results": {
+      "channels": [
+        {
+          "alternatives": [
+            {
+              "transcript": "Good morning, everyone. My name is Mackenzie. Today, I will be talking about Chinese cuisine. I was told between so many topics that I want to talk about, but I finally decided I'm going to talk about Chinese goodbye. Because first, I look like an expert. No matter what I say, you guys are going to believe in me. Second, as an international student from China, I got a lot of question about what does the Authentic Chinese look like? I usually only have twenty seconds to explain it to them. But today, we will have three minutes to talk about it. So lucky you guys. As we all know, China is a huge country with heavy population. According to a world population review, There's is one point forty two billion people living in China. Having population determines Chinese numerous varieties of food. However, Chinese food can be roughly divided into eight regions cuisine. Because of the population distribution. Ninety four percent of the population is located at east side of China. But today, we're only going to talk about four patient cuisine because of the time limitation. Sand provides has a long host fresh river fish and seafood are always the local favorite. The main goal of an authentic styles ship is to preserve the cut color and the taste of the main ingredients. So relative little spicy sugar is used and if extremely hits the frying cookie method is used which called bow. There's just love to cook meat and batch both in a work over a big hot flame. They make the oil boil at an extremely high temperature and toast in the ingredients for quick stripe. This cinch the outer layer and looks into the flavor. Also keeps all from sitting into the food. Can you pull out of all after the main ingredients are cooked, and then they will ask spices, seasonings, stirred it quickly and serve it hot. There's only little residual oil on the food. This cooking method is called bowel. Next one, I will be talking about. Also you have light as sweet flavor. There just use very elaborate and precise cookie method and presentation. The method are more pack frying. They company's do brace, simmer and warmth preserved original flavor and to maintain clarity freshness and white. The second third one we're gonna talk about is sip. They're famous of hot spicy taste and numbing flavor. The reason that this love spicy food is because is running by mountains. they have very humid weather, which gives them a hard time to keep warm in the winter. So it is basic effectively helping them sweat and get rid of that code. Now Su is the most white service cuisine in China. Same as the trunk with dishes that you guys probably know are now and. And the last one we're going to talk about is. In China, we have to joke saying that people from southern providers at school. Will eat everything with four legs except table and everything that flies except airplanes. Although it's an, they do have some issues might can contain snakes dogs and seafood that not familiar to most foreigners. So to wrap up this presentation Today, we talked about Shin, which has a lot of seafood. Which has light as sweet flavor. Si trunk with spicy taste and numbing flavored and one with a lot of wild food.",
+              "confidence": 0.9765625,
+              "words": [
+                {
+                  "word": "good",
+                  "start": 0.82,
+                  "end": 1.02,
+                  "confidence": 0.9995117,
+                  "punctuated_word": "Good"
+                },
+                {
+                  "word": "morning",
+                  "start": 1.02,
+                  "end": 1.22,
+                  "confidence": 0.9995117,
+                  "punctuated_word": "morning,"
+                },
+                {
+                  "word": "everyone",
+                  "start": 1.66,
+                  "end": 2.06,
+                  "confidence": 0.99560547,
+                  "punctuated_word": "everyone."
+                },
+                {
+                  "word": "my",
+                  "start": 2.26,
+                  "end": 2.4199998,
+                  "confidence": 0.99853516,
+                  "punctuated_word": "My"
+                },
+                {
+                  "word": "name",
+                  "start": 2.4199998,
+                  "end": 2.58,
+                  "confidence": 0.9995117,
+                  "punctuated_word": "name"
+                },
+                {
+                  "word": "is",
+                  "start": 2.58,
+                  "end": 2.74,
+                  "confidence": 0.99658203,
+                  "punctuated_word": "is"
+                },
+                {
+                  "word": "mackenzie",
+                  "start": 3.02,
+                  "end": 3.1,
+                  "confidence": 0.5913086,
+                  "punctuated_word": "Mackenzie."
+                },
+                {
+                  "word": "today",
+                  "start": 4.14,
+                  "end": 4.2999997,
+                  "confidence": 0.99316406,
+                  "punctuated_word": "Today,"
+                },
+                {
+                  "word": "i",
+                  "start": 4.5,
+                  "end": 4.62,
+                  "confidence": 0.9873047,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "will",
+                  "start": 4.62,
+                  "end": 4.7799997,
+                  "confidence": 0.96728516,
+                  "punctuated_word": "will"
+                },
+                {
+                  "word": "be",
+                  "start": 4.7799997,
+                  "end": 5.02,
+                  "confidence": 0.9794922,
+                  "punctuated_word": "be"
+                },
+                {
+                  "word": "talking",
+                  "start": 5.02,
+                  "end": 5.38,
+                  "confidence": 0.5595703,
+                  "punctuated_word": "talking"
+                },
+                {
+                  "word": "about",
+                  "start": 5.38,
+                  "end": 5.62,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "about"
+                },
+                {
+                  "word": "chinese",
+                  "start": 5.7799997,
+                  "end": 6.18,
+                  "confidence": 0.99853516,
+                  "punctuated_word": "Chinese"
+                },
+                {
+                  "word": "cuisine",
+                  "start": 6.18,
+                  "end": 6.58,
+                  "confidence": 0.91748047,
+                  "punctuated_word": "cuisine."
+                },
+                {
+                  "word": "i",
+                  "start": 7.993876,
+                  "end": 8.153692,
+                  "confidence": 0.9970703,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "was",
+                  "start": 8.153692,
+                  "end": 8.553234,
+                  "confidence": 0.8754883,
+                  "punctuated_word": "was"
+                },
+                {
+                  "word": "told",
+                  "start": 8.553234,
+                  "end": 8.952775,
+                  "confidence": 0.27661133,
+                  "punctuated_word": "told"
+                },
+                {
+                  "word": "between",
+                  "start": 8.952775,
+                  "end": 9.232454,
+                  "confidence": 0.99853516,
+                  "punctuated_word": "between"
+                },
+                {
+                  "word": "so",
+                  "start": 9.232454,
+                  "end": 9.39227,
+                  "confidence": 0.9951172,
+                  "punctuated_word": "so"
+                },
+                {
+                  "word": "many",
+                  "start": 9.39227,
+                  "end": 9.711904,
+                  "confidence": 1,
+                  "punctuated_word": "many"
+                },
+                {
+                  "word": "topics",
+                  "start": 9.711904,
+                  "end": 10.191353,
+                  "confidence": 0.9995117,
+                  "punctuated_word": "topics"
+                },
+                {
+                  "word": "that",
+                  "start": 10.191353,
+                  "end": 10.311215,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "that"
+                },
+                {
+                  "word": "i",
+                  "start": 10.35117,
+                  "end": 10.55094,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "want",
+                  "start": 10.55094,
+                  "end": 10.710756,
+                  "confidence": 0.92871094,
+                  "punctuated_word": "want"
+                },
+                {
+                  "word": "to",
+                  "start": 10.710756,
+                  "end": 10.910527,
+                  "confidence": 0.97753906,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "talk",
+                  "start": 10.910527,
+                  "end": 11.23016,
+                  "confidence": 0.9980469,
+                  "punctuated_word": "talk"
+                },
+                {
+                  "word": "about",
+                  "start": 11.23016,
+                  "end": 11.429931,
+                  "confidence": 0.99853516,
+                  "punctuated_word": "about,"
+                },
+                {
+                  "word": "but",
+                  "start": 11.589747,
+                  "end": 11.629702,
+                  "confidence": 0.99658203,
+                  "punctuated_word": "but"
+                },
+                {
+                  "word": "i",
+                  "start": 11.70961,
+                  "end": 12.0292425,
+                  "confidence": 0.8984375,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "finally",
+                  "start": 12.0292425,
+                  "end": 12.5292425,
+                  "confidence": 0.99853516,
+                  "punctuated_word": "finally"
+                },
+                {
+                  "word": "decided",
+                  "start": 12.988142,
+                  "end": 13.307775,
+                  "confidence": 0.98779297,
+                  "punctuated_word": "decided"
+                },
+                {
+                  "word": "i'm",
+                  "start": 13.347729,
+                  "end": 13.587454,
+                  "confidence": 0.9785156,
+                  "punctuated_word": "I'm"
+                },
+                {
+                  "word": "going",
+                  "start": 13.587454,
+                  "end": 13.787224,
+                  "confidence": 0.9794922,
+                  "punctuated_word": "going"
+                },
+                {
+                  "word": "to",
+                  "start": 13.787224,
+                  "end": 13.986995,
+                  "confidence": 0.9482422,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "talk",
+                  "start": 13.986995,
+                  "end": 14.346582,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "talk"
+                },
+                {
+                  "word": "about",
+                  "start": 14.346582,
+                  "end": 14.506399,
+                  "confidence": 0.99609375,
+                  "punctuated_word": "about"
+                },
+                {
+                  "word": "chinese",
+                  "start": 14.626261,
+                  "end": 15.126261,
+                  "confidence": 0.9902344,
+                  "punctuated_word": "Chinese"
+                },
+                {
+                  "word": "goodbye",
+                  "start": 15.225573,
+                  "end": 15.385389,
+                  "confidence": 0.4873047,
+                  "punctuated_word": "goodbye."
+                },
+                {
+                  "word": "because",
+                  "start": 16.15823,
+                  "end": 16.556545,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "Because"
+                },
+                {
+                  "word": "first",
+                  "start": 16.556545,
+                  "end": 17.056545,
+                  "confidence": 0.9970703,
+                  "punctuated_word": "first,"
+                },
+                {
+                  "word": "i",
+                  "start": 17.512499,
+                  "end": 17.711657,
+                  "confidence": 0.97998047,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "look",
+                  "start": 17.711657,
+                  "end": 17.950645,
+                  "confidence": 0.8105469,
+                  "punctuated_word": "look"
+                },
+                {
+                  "word": "like",
+                  "start": 17.950645,
+                  "end": 18.07014,
+                  "confidence": 0.9980469,
+                  "punctuated_word": "like"
+                },
+                {
+                  "word": "an",
+                  "start": 18.07014,
+                  "end": 18.189634,
+                  "confidence": 0.46435547,
+                  "punctuated_word": "an"
+                },
+                {
+                  "word": "expert",
+                  "start": 18.189634,
+                  "end": 18.689634,
+                  "confidence": 0.98876953,
+                  "punctuated_word": "expert."
+                },
+                {
+                  "word": "no",
+                  "start": 19.504072,
+                  "end": 19.70323,
+                  "confidence": 0.99121094,
+                  "punctuated_word": "No"
+                },
+                {
+                  "word": "matter",
+                  "start": 19.70323,
+                  "end": 19.942219,
+                  "confidence": 0.99853516,
+                  "punctuated_word": "matter"
+                },
+                {
+                  "word": "what",
+                  "start": 19.942219,
+                  "end": 20.021881,
+                  "confidence": 0.9980469,
+                  "punctuated_word": "what"
+                },
+                {
+                  "word": "i",
+                  "start": 20.061714,
+                  "end": 20.420197,
+                  "confidence": 0.9902344,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "say",
+                  "start": 20.420197,
+                  "end": 20.53969,
+                  "confidence": 0.8979492,
+                  "punctuated_word": "say,"
+                },
+                {
+                  "word": "you",
+                  "start": 20.699017,
+                  "end": 20.858341,
+                  "confidence": 0.99658203,
+                  "punctuated_word": "you"
+                },
+                {
+                  "word": "guys",
+                  "start": 20.858341,
+                  "end": 21.097332,
+                  "confidence": 0.99560547,
+                  "punctuated_word": "guys"
+                },
+                {
+                  "word": "are",
+                  "start": 21.097332,
+                  "end": 21.336319,
+                  "confidence": 0.99658203,
+                  "punctuated_word": "are"
+                },
+                {
+                  "word": "going",
+                  "start": 21.336319,
+                  "end": 21.57531,
+                  "confidence": 0.9926758,
+                  "punctuated_word": "going"
+                },
+                {
+                  "word": "to",
+                  "start": 21.57531,
+                  "end": 21.85413,
+                  "confidence": 0.9921875,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "believe",
+                  "start": 21.85413,
+                  "end": 22.053286,
+                  "confidence": 0.9614258,
+                  "punctuated_word": "believe"
+                },
+                {
+                  "word": "in",
+                  "start": 22.053286,
+                  "end": 22.212612,
+                  "confidence": 0.31884766,
+                  "punctuated_word": "in"
+                },
+                {
+                  "word": "me",
+                  "start": 22.212612,
+                  "end": 22.41177,
+                  "confidence": 0.8486328,
+                  "punctuated_word": "me."
+                },
+                {
+                  "word": "second",
+                  "start": 23.503607,
+                  "end": 24.003607,
+                  "confidence": 0.9746094,
+                  "punctuated_word": "Second,"
+                },
+                {
+                  "word": "as",
+                  "start": 24.182173,
+                  "end": 24.38175,
+                  "confidence": 0.9921875,
+                  "punctuated_word": "as"
+                },
+                {
+                  "word": "an",
+                  "start": 24.38175,
+                  "end": 24.820822,
+                  "confidence": 0.8701172,
+                  "punctuated_word": "an"
+                },
+                {
+                  "word": "international",
+                  "start": 24.820822,
+                  "end": 25.259893,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "international"
+                },
+                {
+                  "word": "student",
+                  "start": 25.259893,
+                  "end": 25.619135,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "student"
+                },
+                {
+                  "word": "from",
+                  "start": 25.619135,
+                  "end": 25.778797,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "from"
+                },
+                {
+                  "word": "china",
+                  "start": 26.01829,
+                  "end": 26.51829,
+                  "confidence": 0.9921875,
+                  "punctuated_word": "China,"
+                },
+                {
+                  "word": "i",
+                  "start": 27.01618,
+                  "end": 27.255674,
+                  "confidence": 0.99316406,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "got",
+                  "start": 27.255674,
+                  "end": 27.415337,
+                  "confidence": 0.99609375,
+                  "punctuated_word": "got"
+                },
+                {
+                  "word": "a",
+                  "start": 27.415337,
+                  "end": 27.65483,
+                  "confidence": 0.9995117,
+                  "punctuated_word": "a"
+                },
+                {
+                  "word": "lot",
+                  "start": 27.65483,
+                  "end": 27.774578,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "lot"
+                },
+                {
+                  "word": "of",
+                  "start": 27.774578,
+                  "end": 28.053986,
+                  "confidence": 0.9926758,
+                  "punctuated_word": "of"
+                },
+                {
+                  "word": "question",
+                  "start": 28.053986,
+                  "end": 28.553986,
+                  "confidence": 0.94921875,
+                  "punctuated_word": "question"
+                },
+                {
+                  "word": "about",
+                  "start": 28.652721,
+                  "end": 29.152721,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "about"
+                },
+                {
+                  "word": "what",
+                  "start": 29.331285,
+                  "end": 29.490948,
+                  "confidence": 0.99853516,
+                  "punctuated_word": "what"
+                },
+                {
+                  "word": "does",
+                  "start": 29.490948,
+                  "end": 29.690527,
+                  "confidence": 0.96484375,
+                  "punctuated_word": "does"
+                },
+                {
+                  "word": "the",
+                  "start": 29.690527,
+                  "end": 29.770357,
+                  "confidence": 0.99072266,
+                  "punctuated_word": "the"
+                },
+                {
+                  "word": "authentic",
+                  "start": 30.129599,
+                  "end": 30.448923,
+                  "confidence": 0.99316406,
+                  "punctuated_word": "Authentic"
+                },
+                {
+                  "word": "chinese",
+                  "start": 30.608585,
+                  "end": 31.108585,
+                  "confidence": 0.9946289,
+                  "punctuated_word": "Chinese"
+                },
+                {
+                  "word": "look",
+                  "start": 31.366982,
+                  "end": 31.64639,
+                  "confidence": 0.9824219,
+                  "punctuated_word": "look"
+                },
+                {
+                  "word": "like",
+                  "start": 31.64639,
+                  "end": 31.885885,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "like?"
+                },
+                {
+                  "word": "i",
+                  "start": 33.0179,
+                  "end": 33.13754,
+                  "confidence": 0.9941406,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "usually",
+                  "start": 33.13754,
+                  "end": 33.45658,
+                  "confidence": 0.4177246,
+                  "punctuated_word": "usually"
+                },
+                {
+                  "word": "only",
+                  "start": 33.45658,
+                  "end": 33.8155,
+                  "confidence": 0.99609375,
+                  "punctuated_word": "only"
+                },
+                {
+                  "word": "have",
+                  "start": 33.8155,
+                  "end": 34.17442,
+                  "confidence": 0.99316406,
+                  "punctuated_word": "have"
+                },
+                {
+                  "word": "twenty",
+                  "start": 34.17442,
+                  "end": 34.49346,
+                  "confidence": 0.99853516,
+                  "punctuated_word": "twenty"
+                },
+                {
+                  "word": "seconds",
+                  "start": 34.49346,
+                  "end": 34.99346,
+                  "confidence": 0.98095703,
+                  "punctuated_word": "seconds"
+                },
+                {
+                  "word": "to",
+                  "start": 35.05178,
+                  "end": 35.55178,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "explain",
+                  "start": 35.64998,
+                  "end": 35.84938,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "explain"
+                },
+                {
+                  "word": "it",
+                  "start": 35.84938,
+                  "end": 36.0089,
+                  "confidence": 0.8515625,
+                  "punctuated_word": "it"
+                },
+                {
+                  "word": "to",
+                  "start": 36.0089,
+                  "end": 36.208298,
+                  "confidence": 0.99316406,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "them",
+                  "start": 36.208298,
+                  "end": 36.708298,
+                  "confidence": 0.99853516,
+                  "punctuated_word": "them."
+                },
+                {
+                  "word": "but",
+                  "start": 37.04578,
+                  "end": 37.44458,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "But"
+                },
+                {
+                  "word": "today",
+                  "start": 37.44458,
+                  "end": 37.68386,
+                  "confidence": 0.9995117,
+                  "punctuated_word": "today,"
+                },
+                {
+                  "word": "we",
+                  "start": 37.88326,
+                  "end": 38.0029,
+                  "confidence": 0.77685547,
+                  "punctuated_word": "we"
+                },
+                {
+                  "word": "will",
+                  "start": 38.0029,
+                  "end": 38.28206,
+                  "confidence": 0.7285156,
+                  "punctuated_word": "will"
+                },
+                {
+                  "word": "have",
+                  "start": 38.28206,
+                  "end": 38.76062,
+                  "confidence": 0.99121094,
+                  "punctuated_word": "have"
+                },
+                {
+                  "word": "three",
+                  "start": 38.76062,
+                  "end": 38.96002,
+                  "confidence": 0.9970703,
+                  "punctuated_word": "three"
+                },
+                {
+                  "word": "minutes",
+                  "start": 38.96002,
+                  "end": 39.46002,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "minutes"
+                },
+                {
+                  "word": "to",
+                  "start": 39.91714,
+                  "end": 40.11654,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "talk",
+                  "start": 40.11654,
+                  "end": 40.435577,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "talk"
+                },
+                {
+                  "word": "about",
+                  "start": 40.435577,
+                  "end": 40.5951,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "about"
+                },
+                {
+                  "word": "it",
+                  "start": 40.5951,
+                  "end": 40.83438,
+                  "confidence": 0.99560547,
+                  "punctuated_word": "it."
+                },
+                {
+                  "word": "so",
+                  "start": 41.03378,
+                  "end": 41.3927,
+                  "confidence": 0.97265625,
+                  "punctuated_word": "So"
+                },
+                {
+                  "word": "lucky",
+                  "start": 41.3927,
+                  "end": 41.67186,
+                  "confidence": 0.9663086,
+                  "punctuated_word": "lucky"
+                },
+                {
+                  "word": "you",
+                  "start": 41.67186,
+                  "end": 41.87126,
+                  "confidence": 0.98583984,
+                  "punctuated_word": "you"
+                },
+                {
+                  "word": "guys",
+                  "start": 41.87126,
+                  "end": 42.11054,
+                  "confidence": 0.9970703,
+                  "punctuated_word": "guys."
+                },
+                {
+                  "word": "as",
+                  "start": 43.600685,
+                  "end": 43.83989,
+                  "confidence": 0.99365234,
+                  "punctuated_word": "As"
+                },
+                {
+                  "word": "we",
+                  "start": 43.83989,
+                  "end": 43.99936,
+                  "confidence": 0.9892578,
+                  "punctuated_word": "we"
+                },
+                {
+                  "word": "all",
+                  "start": 43.99936,
+                  "end": 44.27843,
+                  "confidence": 0.97558594,
+                  "punctuated_word": "all"
+                },
+                {
+                  "word": "know",
+                  "start": 44.27843,
+                  "end": 44.597366,
+                  "confidence": 0.9897461,
+                  "punctuated_word": "know,"
+                },
+                {
+                  "word": "china",
+                  "start": 44.956173,
+                  "end": 45.394714,
+                  "confidence": 0.98779297,
+                  "punctuated_word": "China"
+                },
+                {
+                  "word": "is",
+                  "start": 45.394714,
+                  "end": 45.55418,
+                  "confidence": 0.9926758,
+                  "punctuated_word": "is"
+                },
+                {
+                  "word": "a",
+                  "start": 45.55418,
+                  "end": 45.87312,
+                  "confidence": 0.9970703,
+                  "punctuated_word": "a"
+                },
+                {
+                  "word": "huge",
+                  "start": 45.87312,
+                  "end": 46.19206,
+                  "confidence": 0.99853516,
+                  "punctuated_word": "huge"
+                },
+                {
+                  "word": "country",
+                  "start": 46.19206,
+                  "end": 46.630596,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "country"
+                },
+                {
+                  "word": "with",
+                  "start": 46.630596,
+                  "end": 46.949535,
+                  "confidence": 0.9970703,
+                  "punctuated_word": "with"
+                },
+                {
+                  "word": "heavy",
+                  "start": 46.949535,
+                  "end": 47.449535,
+                  "confidence": 0.99853516,
+                  "punctuated_word": "heavy"
+                },
+                {
+                  "word": "population",
+                  "start": 47.667145,
+                  "end": 48.02595,
+                  "confidence": 0.9848633,
+                  "punctuated_word": "population."
+                },
+                {
+                  "word": "according",
+                  "start": 49.102367,
+                  "end": 49.38144,
+                  "confidence": 1,
+                  "punctuated_word": "According"
+                },
+                {
+                  "word": "to",
+                  "start": 49.38144,
+                  "end": 49.461174,
+                  "confidence": 0.9902344,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "a",
+                  "start": 49.461174,
+                  "end": 49.620644,
+                  "confidence": 0.85253906,
+                  "punctuated_word": "a"
+                },
+                {
+                  "word": "world",
+                  "start": 49.620644,
+                  "end": 50.120644,
+                  "confidence": 0.90527344,
+                  "punctuated_word": "world"
+                },
+                {
+                  "word": "population",
+                  "start": 50.25852,
+                  "end": 50.75852,
+                  "confidence": 0.99658203,
+                  "punctuated_word": "population"
+                },
+                {
+                  "word": "review",
+                  "start": 50.896393,
+                  "end": 51.055862,
+                  "confidence": 0.9296875,
+                  "punctuated_word": "review,"
+                },
+                {
+                  "word": "there's",
+                  "start": 51.828503,
+                  "end": 51.948143,
+                  "confidence": 0.5527344,
+                  "punctuated_word": "There's"
+                },
+                {
+                  "word": "is",
+                  "start": 51.948143,
+                  "end": 52.38682,
+                  "confidence": 0.6586914,
+                  "punctuated_word": "is"
+                },
+                {
+                  "word": "one",
+                  "start": 52.38682,
+                  "end": 52.66598,
+                  "confidence": 0.9824219,
+                  "punctuated_word": "one"
+                },
+                {
+                  "word": "point",
+                  "start": 52.66598,
+                  "end": 53.024902,
+                  "confidence": 0.73535156,
+                  "punctuated_word": "point"
+                },
+                {
+                  "word": "forty",
+                  "start": 53.024902,
+                  "end": 53.34394,
+                  "confidence": 0.8769531,
+                  "punctuated_word": "forty"
+                },
+                {
+                  "word": "two",
+                  "start": 53.34394,
+                  "end": 53.543343,
+                  "confidence": 0.99121094,
+                  "punctuated_word": "two"
+                },
+                {
+                  "word": "billion",
+                  "start": 53.543343,
+                  "end": 53.90226,
+                  "confidence": 0.9082031,
+                  "punctuated_word": "billion"
+                },
+                {
+                  "word": "people",
+                  "start": 53.90226,
+                  "end": 54.38082,
+                  "confidence": 0.9970703,
+                  "punctuated_word": "people"
+                },
+                {
+                  "word": "living",
+                  "start": 54.38082,
+                  "end": 54.54034,
+                  "confidence": 0.87158203,
+                  "punctuated_word": "living"
+                },
+                {
+                  "word": "in",
+                  "start": 54.54034,
+                  "end": 54.699863,
+                  "confidence": 0.9355469,
+                  "punctuated_word": "in"
+                },
+                {
+                  "word": "china",
+                  "start": 54.93914,
+                  "end": 55.377823,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "China."
+                },
+                {
+                  "word": "having",
+                  "start": 56.37482,
+                  "end": 56.87482,
+                  "confidence": 0.4284668,
+                  "punctuated_word": "Having"
+                },
+                {
+                  "word": "population",
+                  "start": 57.092663,
+                  "end": 57.592663,
+                  "confidence": 0.9345703,
+                  "punctuated_word": "population"
+                },
+                {
+                  "word": "determines",
+                  "start": 57.890263,
+                  "end": 58.249184,
+                  "confidence": 0.61376953,
+                  "punctuated_word": "determines"
+                },
+                {
+                  "word": "chinese",
+                  "start": 58.48846,
+                  "end": 58.98846,
+                  "confidence": 0.7919922,
+                  "punctuated_word": "Chinese"
+                },
+                {
+                  "word": "numerous",
+                  "start": 59.206303,
+                  "end": 59.706303,
+                  "confidence": 0.9916992,
+                  "punctuated_word": "numerous"
+                },
+                {
+                  "word": "varieties",
+                  "start": 60.003902,
+                  "end": 60.32294,
+                  "confidence": 0.9794922,
+                  "punctuated_word": "varieties"
+                },
+                {
+                  "word": "of",
+                  "start": 60.32294,
+                  "end": 60.602104,
+                  "confidence": 0.9995117,
+                  "punctuated_word": "of"
+                },
+                {
+                  "word": "food",
+                  "start": 60.602104,
+                  "end": 60.84138,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "food."
+                },
+                {
+                  "word": "however",
+                  "start": 61.853752,
+                  "end": 62.353752,
+                  "confidence": 0.99658203,
+                  "punctuated_word": "However,"
+                },
+                {
+                  "word": "chinese",
+                  "start": 62.731716,
+                  "end": 63.13079,
+                  "confidence": 0.9995117,
+                  "punctuated_word": "Chinese"
+                },
+                {
+                  "word": "food",
+                  "start": 63.13079,
+                  "end": 63.45005,
+                  "confidence": 0.99365234,
+                  "punctuated_word": "food"
+                },
+                {
+                  "word": "can",
+                  "start": 63.45005,
+                  "end": 63.56977,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "can"
+                },
+                {
+                  "word": "be",
+                  "start": 63.56977,
+                  "end": 63.809216,
+                  "confidence": 0.99316406,
+                  "punctuated_word": "be"
+                },
+                {
+                  "word": "roughly",
+                  "start": 63.809216,
+                  "end": 64.30922,
+                  "confidence": 0.98876953,
+                  "punctuated_word": "roughly"
+                },
+                {
+                  "word": "divided",
+                  "start": 64.44773,
+                  "end": 64.84681,
+                  "confidence": 0.9980469,
+                  "punctuated_word": "divided"
+                },
+                {
+                  "word": "into",
+                  "start": 64.84681,
+                  "end": 65.34681,
+                  "confidence": 0.9916992,
+                  "punctuated_word": "into"
+                },
+                {
+                  "word": "eight",
+                  "start": 65.48533,
+                  "end": 65.8844,
+                  "confidence": 0.96972656,
+                  "punctuated_word": "eight"
+                },
+                {
+                  "word": "regions",
+                  "start": 65.8844,
+                  "end": 66.28348,
+                  "confidence": 0.5703125,
+                  "punctuated_word": "regions"
+                },
+                {
+                  "word": "cuisine",
+                  "start": 66.28348,
+                  "end": 66.68255,
+                  "confidence": 0.75390625,
+                  "punctuated_word": "cuisine."
+                },
+                {
+                  "word": "because",
+                  "start": 67.60042,
+                  "end": 67.91968,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "Because"
+                },
+                {
+                  "word": "of",
+                  "start": 67.91968,
+                  "end": 68.07931,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "of"
+                },
+                {
+                  "word": "the",
+                  "start": 68.07931,
+                  "end": 68.57931,
+                  "confidence": 0.99121094,
+                  "punctuated_word": "the"
+                },
+                {
+                  "word": "population",
+                  "start": 68.59811,
+                  "end": 69.09811,
+                  "confidence": 0.9995117,
+                  "punctuated_word": "population"
+                },
+                {
+                  "word": "distribution",
+                  "start": 69.31644,
+                  "end": 69.715515,
+                  "confidence": 0.9980469,
+                  "punctuated_word": "distribution."
+                },
+                {
+                  "word": "ninety",
+                  "start": 70.48884,
+                  "end": 70.80814,
+                  "confidence": 0.9995117,
+                  "punctuated_word": "Ninety"
+                },
+                {
+                  "word": "four",
+                  "start": 70.80814,
+                  "end": 71.207275,
+                  "confidence": 0.9868164,
+                  "punctuated_word": "four"
+                },
+                {
+                  "word": "percent",
+                  "start": 71.207275,
+                  "end": 71.48667,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "percent"
+                },
+                {
+                  "word": "of",
+                  "start": 71.48667,
+                  "end": 71.68624,
+                  "confidence": 0.9848633,
+                  "punctuated_word": "of"
+                },
+                {
+                  "word": "the",
+                  "start": 71.68624,
+                  "end": 72.1652,
+                  "confidence": 0.99658203,
+                  "punctuated_word": "the"
+                },
+                {
+                  "word": "population",
+                  "start": 72.1652,
+                  "end": 72.64416,
+                  "confidence": 1,
+                  "punctuated_word": "population"
+                },
+                {
+                  "word": "is",
+                  "start": 72.64416,
+                  "end": 73.14416,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "is"
+                },
+                {
+                  "word": "located",
+                  "start": 73.16303,
+                  "end": 73.56217,
+                  "confidence": 0.9995117,
+                  "punctuated_word": "located"
+                },
+                {
+                  "word": "at",
+                  "start": 73.56217,
+                  "end": 73.88148,
+                  "confidence": 0.99365234,
+                  "punctuated_word": "at"
+                },
+                {
+                  "word": "east",
+                  "start": 73.88148,
+                  "end": 74.320526,
+                  "confidence": 0.9951172,
+                  "punctuated_word": "east"
+                },
+                {
+                  "word": "side",
+                  "start": 74.320526,
+                  "end": 74.48018,
+                  "confidence": 0.84228516,
+                  "punctuated_word": "side"
+                },
+                {
+                  "word": "of",
+                  "start": 74.48018,
+                  "end": 74.560005,
+                  "confidence": 0.9980469,
+                  "punctuated_word": "of"
+                },
+                {
+                  "word": "china",
+                  "start": 74.759575,
+                  "end": 75.03896,
+                  "confidence": 0.9970703,
+                  "punctuated_word": "China."
+                },
+                {
+                  "word": "but",
+                  "start": 76.95481,
+                  "end": 77.31403,
+                  "confidence": 0.98339844,
+                  "punctuated_word": "But"
+                },
+                {
+                  "word": "today",
+                  "start": 77.31403,
+                  "end": 77.43377,
+                  "confidence": 0.9941406,
+                  "punctuated_word": "today,"
+                },
+                {
+                  "word": "we're",
+                  "start": 77.59342,
+                  "end": 77.912735,
+                  "confidence": 0.97314453,
+                  "punctuated_word": "we're"
+                },
+                {
+                  "word": "only",
+                  "start": 77.912735,
+                  "end": 78.27195,
+                  "confidence": 0.9970703,
+                  "punctuated_word": "only"
+                },
+                {
+                  "word": "going",
+                  "start": 78.27195,
+                  "end": 78.47152,
+                  "confidence": 0.9980469,
+                  "punctuated_word": "going"
+                },
+                {
+                  "word": "to",
+                  "start": 78.47152,
+                  "end": 78.67109,
+                  "confidence": 0.9946289,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "talk",
+                  "start": 78.67109,
+                  "end": 78.990395,
+                  "confidence": 0.9448242,
+                  "punctuated_word": "talk"
+                },
+                {
+                  "word": "about",
+                  "start": 78.990395,
+                  "end": 79.185005,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "about"
+                },
+                {
+                  "word": "four",
+                  "start": 79.44501,
+                  "end": 79.84501,
+                  "confidence": 0.86328125,
+                  "punctuated_word": "four"
+                },
+                {
+                  "word": "patient",
+                  "start": 79.84501,
+                  "end": 80.34501,
+                  "confidence": 0.73779297,
+                  "punctuated_word": "patient"
+                },
+                {
+                  "word": "cuisine",
+                  "start": 80.40501,
+                  "end": 80.90501,
+                  "confidence": 0.8676758,
+                  "punctuated_word": "cuisine"
+                },
+                {
+                  "word": "because",
+                  "start": 81.48501,
+                  "end": 81.98501,
+                  "confidence": 0.99658203,
+                  "punctuated_word": "because"
+                },
+                {
+                  "word": "of",
+                  "start": 82.645004,
+                  "end": 82.885,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "of"
+                },
+                {
+                  "word": "the",
+                  "start": 82.885,
+                  "end": 83.365005,
+                  "confidence": 0.9223633,
+                  "punctuated_word": "the"
+                },
+                {
+                  "word": "time",
+                  "start": 83.365005,
+                  "end": 83.865005,
+                  "confidence": 0.99316406,
+                  "punctuated_word": "time"
+                },
+                {
+                  "word": "limitation",
+                  "start": 83.885,
+                  "end": 84.385,
+                  "confidence": 0.9428711,
+                  "punctuated_word": "limitation."
+                },
+                {
+                  "word": "sand",
+                  "start": 86.045006,
+                  "end": 86.545006,
+                  "confidence": 0.25317383,
+                  "punctuated_word": "Sand"
+                },
+                {
+                  "word": "provides",
+                  "start": 86.685005,
+                  "end": 87.12501,
+                  "confidence": 0.77490234,
+                  "punctuated_word": "provides"
+                },
+                {
+                  "word": "has",
+                  "start": 87.12501,
+                  "end": 87.44501,
+                  "confidence": 0.99121094,
+                  "punctuated_word": "has"
+                },
+                {
+                  "word": "a",
+                  "start": 87.44501,
+                  "end": 87.725006,
+                  "confidence": 0.99121094,
+                  "punctuated_word": "a"
+                },
+                {
+                  "word": "long",
+                  "start": 87.725006,
+                  "end": 88.12501,
+                  "confidence": 0.99316406,
+                  "punctuated_word": "long"
+                },
+                {
+                  "word": "host",
+                  "start": 88.12501,
+                  "end": 88.62501,
+                  "confidence": 0.4909668,
+                  "punctuated_word": "host"
+                },
+                {
+                  "word": "fresh",
+                  "start": 89.14001,
+                  "end": 89.46001,
+                  "confidence": 0.97753906,
+                  "punctuated_word": "fresh"
+                },
+                {
+                  "word": "river",
+                  "start": 89.46001,
+                  "end": 89.86,
+                  "confidence": 0.6098633,
+                  "punctuated_word": "river"
+                },
+                {
+                  "word": "fish",
+                  "start": 89.86,
+                  "end": 90.060005,
+                  "confidence": 0.39404297,
+                  "punctuated_word": "fish"
+                },
+                {
+                  "word": "and",
+                  "start": 90.060005,
+                  "end": 90.340004,
+                  "confidence": 0.84765625,
+                  "punctuated_word": "and"
+                },
+                {
+                  "word": "seafood",
+                  "start": 90.340004,
+                  "end": 90.840004,
+                  "confidence": 0.99316406,
+                  "punctuated_word": "seafood"
+                },
+                {
+                  "word": "are",
+                  "start": 90.9,
+                  "end": 91.14001,
+                  "confidence": 0.99853516,
+                  "punctuated_word": "are"
+                },
+                {
+                  "word": "always",
+                  "start": 91.14001,
+                  "end": 91.62,
+                  "confidence": 0.99316406,
+                  "punctuated_word": "always"
+                },
+                {
+                  "word": "the",
+                  "start": 91.62,
+                  "end": 91.82001,
+                  "confidence": 0.9663086,
+                  "punctuated_word": "the"
+                },
+                {
+                  "word": "local",
+                  "start": 91.82001,
+                  "end": 92.3,
+                  "confidence": 0.7548828,
+                  "punctuated_word": "local"
+                },
+                {
+                  "word": "favorite",
+                  "start": 92.3,
+                  "end": 92.8,
+                  "confidence": 0.6010742,
+                  "punctuated_word": "favorite."
+                },
+                {
+                  "word": "the",
+                  "start": 93.380005,
+                  "end": 93.62,
+                  "confidence": 0.9980469,
+                  "punctuated_word": "The"
+                },
+                {
+                  "word": "main",
+                  "start": 93.62,
+                  "end": 93.86,
+                  "confidence": 0.68066406,
+                  "punctuated_word": "main"
+                },
+                {
+                  "word": "goal",
+                  "start": 93.86,
+                  "end": 94.060005,
+                  "confidence": 0.93896484,
+                  "punctuated_word": "goal"
+                },
+                {
+                  "word": "of",
+                  "start": 94.060005,
+                  "end": 94.3,
+                  "confidence": 0.97265625,
+                  "punctuated_word": "of"
+                },
+                {
+                  "word": "an",
+                  "start": 94.3,
+                  "end": 94.740005,
+                  "confidence": 0.9765625,
+                  "punctuated_word": "an"
+                },
+                {
+                  "word": "authentic",
+                  "start": 94.740005,
+                  "end": 95.240005,
+                  "confidence": 0.86083984,
+                  "punctuated_word": "authentic"
+                },
+                {
+                  "word": "styles",
+                  "start": 95.78001,
+                  "end": 96.060005,
+                  "confidence": 0.3400879,
+                  "punctuated_word": "styles"
+                },
+                {
+                  "word": "ship",
+                  "start": 96.060005,
+                  "end": 96.380005,
+                  "confidence": 0.50146484,
+                  "punctuated_word": "ship"
+                },
+                {
+                  "word": "is",
+                  "start": 96.380005,
+                  "end": 96.66,
+                  "confidence": 0.9980469,
+                  "punctuated_word": "is"
+                },
+                {
+                  "word": "to",
+                  "start": 96.66,
+                  "end": 97.16,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "preserve",
+                  "start": 97.18001,
+                  "end": 97.380005,
+                  "confidence": 0.99609375,
+                  "punctuated_word": "preserve"
+                },
+                {
+                  "word": "the",
+                  "start": 97.380005,
+                  "end": 97.740005,
+                  "confidence": 0.9760742,
+                  "punctuated_word": "the"
+                },
+                {
+                  "word": "cut",
+                  "start": 97.740005,
+                  "end": 98.01501,
+                  "confidence": 0.51953125,
+                  "punctuated_word": "cut"
+                },
+                {
+                  "word": "color",
+                  "start": 98.47397,
+                  "end": 98.97397,
+                  "confidence": 0.9873047,
+                  "punctuated_word": "color"
+                },
+                {
+                  "word": "and",
+                  "start": 99.23226,
+                  "end": 99.43181,
+                  "confidence": 0.9980469,
+                  "punctuated_word": "and"
+                },
+                {
+                  "word": "the",
+                  "start": 99.43181,
+                  "end": 99.75109,
+                  "confidence": 0.92041016,
+                  "punctuated_word": "the"
+                },
+                {
+                  "word": "taste",
+                  "start": 99.75109,
+                  "end": 100.070366,
+                  "confidence": 0.99658203,
+                  "punctuated_word": "taste"
+                },
+                {
+                  "word": "of",
+                  "start": 100.070366,
+                  "end": 100.23,
+                  "confidence": 0.99853516,
+                  "punctuated_word": "of"
+                },
+                {
+                  "word": "the",
+                  "start": 100.23,
+                  "end": 100.46947,
+                  "confidence": 0.99609375,
+                  "punctuated_word": "the"
+                },
+                {
+                  "word": "main",
+                  "start": 100.46947,
+                  "end": 100.74883,
+                  "confidence": 0.97802734,
+                  "punctuated_word": "main"
+                },
+                {
+                  "word": "ingredients",
+                  "start": 100.74883,
+                  "end": 101.24883,
+                  "confidence": 0.97802734,
+                  "punctuated_word": "ingredients."
+                },
+                {
+                  "word": "so",
+                  "start": 102.66451,
+                  "end": 103.16451,
+                  "confidence": 0.99609375,
+                  "punctuated_word": "So"
+                },
+                {
+                  "word": "relative",
+                  "start": 103.46271,
+                  "end": 103.96271,
+                  "confidence": 0.8959961,
+                  "punctuated_word": "relative"
+                },
+                {
+                  "word": "little",
+                  "start": 104.30082,
+                  "end": 104.73982,
+                  "confidence": 0.99560547,
+                  "punctuated_word": "little"
+                },
+                {
+                  "word": "spicy",
+                  "start": 104.73982,
+                  "end": 105.23982,
+                  "confidence": 0.50146484,
+                  "punctuated_word": "spicy"
+                },
+                {
+                  "word": "sugar",
+                  "start": 105.458206,
+                  "end": 105.81739,
+                  "confidence": 0.99560547,
+                  "punctuated_word": "sugar"
+                },
+                {
+                  "word": "is",
+                  "start": 105.81739,
+                  "end": 106.09676,
+                  "confidence": 0.93896484,
+                  "punctuated_word": "is"
+                },
+                {
+                  "word": "used",
+                  "start": 106.09676,
+                  "end": 106.455956,
+                  "confidence": 0.984375,
+                  "punctuated_word": "used"
+                },
+                {
+                  "word": "and",
+                  "start": 106.455956,
+                  "end": 106.69541,
+                  "confidence": 0.98339844,
+                  "punctuated_word": "and"
+                },
+                {
+                  "word": "if",
+                  "start": 106.69541,
+                  "end": 106.89001,
+                  "confidence": 0.96191406,
+                  "punctuated_word": "if"
+                },
+                {
+                  "word": "extremely",
+                  "start": 107.18933,
+                  "end": 107.68933,
+                  "confidence": 0.8276367,
+                  "punctuated_word": "extremely"
+                },
+                {
+                  "word": "hits",
+                  "start": 107.8678,
+                  "end": 108.2669,
+                  "confidence": 0.34423828,
+                  "punctuated_word": "hits"
+                },
+                {
+                  "word": "the",
+                  "start": 108.2669,
+                  "end": 108.666,
+                  "confidence": 0.5722656,
+                  "punctuated_word": "the"
+                },
+                {
+                  "word": "frying",
+                  "start": 108.666,
+                  "end": 108.985275,
+                  "confidence": 0.99609375,
+                  "punctuated_word": "frying"
+                },
+                {
+                  "word": "cookie",
+                  "start": 108.985275,
+                  "end": 109.34447,
+                  "confidence": 0.86035156,
+                  "punctuated_word": "cookie"
+                },
+                {
+                  "word": "method",
+                  "start": 109.34447,
+                  "end": 109.84447,
+                  "confidence": 0.5332031,
+                  "punctuated_word": "method"
+                },
+                {
+                  "word": "is",
+                  "start": 110.30231,
+                  "end": 110.62158,
+                  "confidence": 0.92041016,
+                  "punctuated_word": "is"
+                },
+                {
+                  "word": "used",
+                  "start": 110.62158,
+                  "end": 111.06059,
+                  "confidence": 0.9926758,
+                  "punctuated_word": "used"
+                },
+                {
+                  "word": "which",
+                  "start": 111.06059,
+                  "end": 111.419785,
+                  "confidence": 0.92578125,
+                  "punctuated_word": "which"
+                },
+                {
+                  "word": "called",
+                  "start": 111.419785,
+                  "end": 111.919785,
+                  "confidence": 0.9511719,
+                  "punctuated_word": "called"
+                },
+                {
+                  "word": "bow",
+                  "start": 111.938614,
+                  "end": 112.438614,
+                  "confidence": 0.3864746,
+                  "punctuated_word": "bow."
+                },
+                {
+                  "word": "there's",
+                  "start": 113.535,
+                  "end": 113.85429,
+                  "confidence": 0.50878906,
+                  "punctuated_word": "There's"
+                },
+                {
+                  "word": "just",
+                  "start": 113.85429,
+                  "end": 114.35429,
+                  "confidence": 0.81933594,
+                  "punctuated_word": "just"
+                },
+                {
+                  "word": "love",
+                  "start": 114.373116,
+                  "end": 114.65248,
+                  "confidence": 0.87353516,
+                  "punctuated_word": "love"
+                },
+                {
+                  "word": "to",
+                  "start": 114.65248,
+                  "end": 114.891945,
+                  "confidence": 0.99316406,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "cook",
+                  "start": 114.891945,
+                  "end": 115.21122,
+                  "confidence": 0.9873047,
+                  "punctuated_word": "cook"
+                },
+                {
+                  "word": "meat",
+                  "start": 115.21122,
+                  "end": 115.410774,
+                  "confidence": 0.49169922,
+                  "punctuated_word": "meat"
+                },
+                {
+                  "word": "and",
+                  "start": 115.410774,
+                  "end": 115.61032,
+                  "confidence": 0.3383789,
+                  "punctuated_word": "and"
+                },
+                {
+                  "word": "batch",
+                  "start": 115.61032,
+                  "end": 115.76501,
+                  "confidence": 0.3400879,
+                  "punctuated_word": "batch"
+                },
+                {
+                  "word": "both",
+                  "start": 115.984344,
+                  "end": 116.38315,
+                  "confidence": 0.671875,
+                  "punctuated_word": "both"
+                },
+                {
+                  "word": "in",
+                  "start": 116.38315,
+                  "end": 116.62243,
+                  "confidence": 0.97802734,
+                  "punctuated_word": "in"
+                },
+                {
+                  "word": "a",
+                  "start": 116.62243,
+                  "end": 116.86171,
+                  "confidence": 0.86621094,
+                  "punctuated_word": "a"
+                },
+                {
+                  "word": "work",
+                  "start": 116.86171,
+                  "end": 117.14087,
+                  "confidence": 0.9423828,
+                  "punctuated_word": "work"
+                },
+                {
+                  "word": "over",
+                  "start": 117.14087,
+                  "end": 117.579544,
+                  "confidence": 0.6376953,
+                  "punctuated_word": "over"
+                },
+                {
+                  "word": "a",
+                  "start": 117.579544,
+                  "end": 117.8587,
+                  "confidence": 0.99365234,
+                  "punctuated_word": "a"
+                },
+                {
+                  "word": "big",
+                  "start": 117.8587,
+                  "end": 118.297386,
+                  "confidence": 0.99658203,
+                  "punctuated_word": "big"
+                },
+                {
+                  "word": "hot",
+                  "start": 118.297386,
+                  "end": 118.77595,
+                  "confidence": 0.60253906,
+                  "punctuated_word": "hot"
+                },
+                {
+                  "word": "flame",
+                  "start": 118.77595,
+                  "end": 119.27595,
+                  "confidence": 0.6845703,
+                  "punctuated_word": "flame."
+                },
+                {
+                  "word": "they",
+                  "start": 119.85271,
+                  "end": 120.05211,
+                  "confidence": 0.2939453,
+                  "punctuated_word": "They"
+                },
+                {
+                  "word": "make",
+                  "start": 120.05211,
+                  "end": 120.29139,
+                  "confidence": 0.8652344,
+                  "punctuated_word": "make"
+                },
+                {
+                  "word": "the",
+                  "start": 120.29139,
+                  "end": 120.49078,
+                  "confidence": 0.92333984,
+                  "punctuated_word": "the"
+                },
+                {
+                  "word": "oil",
+                  "start": 120.49078,
+                  "end": 120.969345,
+                  "confidence": 0.84814453,
+                  "punctuated_word": "oil"
+                },
+                {
+                  "word": "boil",
+                  "start": 120.969345,
+                  "end": 121.36815,
+                  "confidence": 0.33862305,
+                  "punctuated_word": "boil"
+                },
+                {
+                  "word": "at",
+                  "start": 121.36815,
+                  "end": 121.56755,
+                  "confidence": 0.99560547,
+                  "punctuated_word": "at"
+                },
+                {
+                  "word": "an",
+                  "start": 121.56755,
+                  "end": 121.96635,
+                  "confidence": 0.5942383,
+                  "punctuated_word": "an"
+                },
+                {
+                  "word": "extremely",
+                  "start": 121.96635,
+                  "end": 122.46635,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "extremely"
+                },
+                {
+                  "word": "high",
+                  "start": 122.524666,
+                  "end": 122.76395,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "high"
+                },
+                {
+                  "word": "temperature",
+                  "start": 122.76395,
+                  "end": 123.26395,
+                  "confidence": 0.9941406,
+                  "punctuated_word": "temperature"
+                },
+                {
+                  "word": "and",
+                  "start": 123.72107,
+                  "end": 124.07999,
+                  "confidence": 0.99560547,
+                  "punctuated_word": "and"
+                },
+                {
+                  "word": "toast",
+                  "start": 124.07999,
+                  "end": 124.399025,
+                  "confidence": 0.7636719,
+                  "punctuated_word": "toast"
+                },
+                {
+                  "word": "in",
+                  "start": 124.399025,
+                  "end": 124.55855,
+                  "confidence": 0.6508789,
+                  "punctuated_word": "in"
+                },
+                {
+                  "word": "the",
+                  "start": 124.55855,
+                  "end": 124.99722,
+                  "confidence": 0.90283203,
+                  "punctuated_word": "the"
+                },
+                {
+                  "word": "ingredients",
+                  "start": 124.99722,
+                  "end": 125.435905,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "ingredients"
+                },
+                {
+                  "word": "for",
+                  "start": 125.435905,
+                  "end": 125.75001,
+                  "confidence": 0.98779297,
+                  "punctuated_word": "for"
+                },
+                {
+                  "word": "quick",
+                  "start": 125.84971,
+                  "end": 126.34971,
+                  "confidence": 0.9526367,
+                  "punctuated_word": "quick"
+                },
+                {
+                  "word": "stripe",
+                  "start": 126.60743,
+                  "end": 127.10743,
+                  "confidence": 0.6958008,
+                  "punctuated_word": "stripe."
+                },
+                {
+                  "word": "this",
+                  "start": 127.76395,
+                  "end": 128.083,
+                  "confidence": 0.49487305,
+                  "punctuated_word": "This"
+                },
+                {
+                  "word": "cinch",
+                  "start": 128.083,
+                  "end": 128.40202,
+                  "confidence": 0.17053223,
+                  "punctuated_word": "cinch"
+                },
+                {
+                  "word": "the",
+                  "start": 128.40202,
+                  "end": 128.56155,
+                  "confidence": 0.9526367,
+                  "punctuated_word": "the"
+                },
+                {
+                  "word": "outer",
+                  "start": 128.56155,
+                  "end": 128.96034,
+                  "confidence": 0.93652344,
+                  "punctuated_word": "outer"
+                },
+                {
+                  "word": "layer",
+                  "start": 128.96034,
+                  "end": 129.27939,
+                  "confidence": 0.99853516,
+                  "punctuated_word": "layer"
+                },
+                {
+                  "word": "and",
+                  "start": 129.27939,
+                  "end": 129.55855,
+                  "confidence": 0.9296875,
+                  "punctuated_word": "and"
+                },
+                {
+                  "word": "looks",
+                  "start": 129.55855,
+                  "end": 130.05855,
+                  "confidence": 0.78125,
+                  "punctuated_word": "looks"
+                },
+                {
+                  "word": "into",
+                  "start": 130.11687,
+                  "end": 130.47578,
+                  "confidence": 0.9921875,
+                  "punctuated_word": "into"
+                },
+                {
+                  "word": "the",
+                  "start": 130.47578,
+                  "end": 130.71507,
+                  "confidence": 0.99560547,
+                  "punctuated_word": "the"
+                },
+                {
+                  "word": "flavor",
+                  "start": 130.71507,
+                  "end": 131.0341,
+                  "confidence": 0.9951172,
+                  "punctuated_word": "flavor."
+                },
+                {
+                  "word": "also",
+                  "start": 131.39302,
+                  "end": 131.87158,
+                  "confidence": 0.99316406,
+                  "punctuated_word": "Also"
+                },
+                {
+                  "word": "keeps",
+                  "start": 131.87158,
+                  "end": 132.27039,
+                  "confidence": 0.9770508,
+                  "punctuated_word": "keeps"
+                },
+                {
+                  "word": "all",
+                  "start": 132.27039,
+                  "end": 132.77039,
+                  "confidence": 0.48999023,
+                  "punctuated_word": "all"
+                },
+                {
+                  "word": "from",
+                  "start": 132.78883,
+                  "end": 133.10786,
+                  "confidence": 0.87353516,
+                  "punctuated_word": "from"
+                },
+                {
+                  "word": "sitting",
+                  "start": 133.10786,
+                  "end": 133.54655,
+                  "confidence": 0.56152344,
+                  "punctuated_word": "sitting"
+                },
+                {
+                  "word": "into",
+                  "start": 133.54655,
+                  "end": 133.82571,
+                  "confidence": 0.98095703,
+                  "punctuated_word": "into"
+                },
+                {
+                  "word": "the",
+                  "start": 133.82571,
+                  "end": 134.10487,
+                  "confidence": 0.99560547,
+                  "punctuated_word": "the"
+                },
+                {
+                  "word": "food",
+                  "start": 134.10487,
+                  "end": 134.38403,
+                  "confidence": 0.8300781,
+                  "punctuated_word": "food."
+                },
+                {
+                  "word": "can",
+                  "start": 136.15341,
+                  "end": 136.35266,
+                  "confidence": 0.52685547,
+                  "punctuated_word": "Can"
+                },
+                {
+                  "word": "you",
+                  "start": 136.35266,
+                  "end": 136.83086,
+                  "confidence": 0.52685547,
+                  "punctuated_word": "you"
+                },
+                {
+                  "word": "pull",
+                  "start": 136.83086,
+                  "end": 137.0301,
+                  "confidence": 0.9394531,
+                  "punctuated_word": "pull"
+                },
+                {
+                  "word": "out",
+                  "start": 137.0301,
+                  "end": 137.1895,
+                  "confidence": 0.9863281,
+                  "punctuated_word": "out"
+                },
+                {
+                  "word": "of",
+                  "start": 137.1895,
+                  "end": 137.38875,
+                  "confidence": 0.9848633,
+                  "punctuated_word": "of"
+                },
+                {
+                  "word": "all",
+                  "start": 137.38875,
+                  "end": 137.74739,
+                  "confidence": 0.7709961,
+                  "punctuated_word": "all"
+                },
+                {
+                  "word": "after",
+                  "start": 137.74739,
+                  "end": 138.06618,
+                  "confidence": 0.92285156,
+                  "punctuated_word": "after"
+                },
+                {
+                  "word": "the",
+                  "start": 138.06618,
+                  "end": 138.26543,
+                  "confidence": 0.9814453,
+                  "punctuated_word": "the"
+                },
+                {
+                  "word": "main",
+                  "start": 138.26543,
+                  "end": 138.62407,
+                  "confidence": 0.9794922,
+                  "punctuated_word": "main"
+                },
+                {
+                  "word": "ingredients",
+                  "start": 138.62407,
+                  "end": 138.98271,
+                  "confidence": 0.9970703,
+                  "punctuated_word": "ingredients"
+                },
+                {
+                  "word": "are",
+                  "start": 138.98271,
+                  "end": 139.38121,
+                  "confidence": 0.80859375,
+                  "punctuated_word": "are"
+                },
+                {
+                  "word": "cooked",
+                  "start": 139.38121,
+                  "end": 139.7,
+                  "confidence": 0.9135742,
+                  "punctuated_word": "cooked,"
+                },
+                {
+                  "word": "and",
+                  "start": 139.85939,
+                  "end": 140.17819,
+                  "confidence": 0.9897461,
+                  "punctuated_word": "and"
+                },
+                {
+                  "word": "then",
+                  "start": 140.17819,
+                  "end": 140.45714,
+                  "confidence": 0.9970703,
+                  "punctuated_word": "then"
+                },
+                {
+                  "word": "they",
+                  "start": 140.45714,
+                  "end": 140.69623,
+                  "confidence": 0.95703125,
+                  "punctuated_word": "they"
+                },
+                {
+                  "word": "will",
+                  "start": 140.69623,
+                  "end": 141.05487,
+                  "confidence": 0.9003906,
+                  "punctuated_word": "will"
+                },
+                {
+                  "word": "ask",
+                  "start": 141.05487,
+                  "end": 141.53307,
+                  "confidence": 0.59472656,
+                  "punctuated_word": "ask"
+                },
+                {
+                  "word": "spices",
+                  "start": 141.53307,
+                  "end": 142.03307,
+                  "confidence": 0.88427734,
+                  "punctuated_word": "spices,"
+                },
+                {
+                  "word": "seasonings",
+                  "start": 142.88794,
+                  "end": 143.38794,
+                  "confidence": 0.9501953,
+                  "punctuated_word": "seasonings,"
+                },
+                {
+                  "word": "stirred",
+                  "start": 143.89952,
+                  "end": 144.05916,
+                  "confidence": 0.43920898,
+                  "punctuated_word": "stirred"
+                },
+                {
+                  "word": "it",
+                  "start": 144.05916,
+                  "end": 144.33855,
+                  "confidence": 0.84033203,
+                  "punctuated_word": "it"
+                },
+                {
+                  "word": "quickly",
+                  "start": 144.33855,
+                  "end": 144.83855,
+                  "confidence": 0.9916992,
+                  "punctuated_word": "quickly"
+                },
+                {
+                  "word": "and",
+                  "start": 144.85739,
+                  "end": 145.09685,
+                  "confidence": 0.94873047,
+                  "punctuated_word": "and"
+                },
+                {
+                  "word": "serve",
+                  "start": 145.09685,
+                  "end": 145.2565,
+                  "confidence": 0.85595703,
+                  "punctuated_word": "serve"
+                },
+                {
+                  "word": "it",
+                  "start": 145.2565,
+                  "end": 145.57579,
+                  "confidence": 0.78027344,
+                  "punctuated_word": "it"
+                },
+                {
+                  "word": "hot",
+                  "start": 145.57579,
+                  "end": 146.07579,
+                  "confidence": 0.9638672,
+                  "punctuated_word": "hot."
+                },
+                {
+                  "word": "there's",
+                  "start": 146.85294,
+                  "end": 147.13232,
+                  "confidence": 0.72216797,
+                  "punctuated_word": "There's"
+                },
+                {
+                  "word": "only",
+                  "start": 147.13232,
+                  "end": 147.63232,
+                  "confidence": 0.9970703,
+                  "punctuated_word": "only"
+                },
+                {
+                  "word": "little",
+                  "start": 147.93054,
+                  "end": 148.40947,
+                  "confidence": 0.9868164,
+                  "punctuated_word": "little"
+                },
+                {
+                  "word": "residual",
+                  "start": 148.40947,
+                  "end": 148.68886,
+                  "confidence": 0.9873047,
+                  "punctuated_word": "residual"
+                },
+                {
+                  "word": "oil",
+                  "start": 148.68886,
+                  "end": 148.92831,
+                  "confidence": 0.98876953,
+                  "punctuated_word": "oil"
+                },
+                {
+                  "word": "on",
+                  "start": 148.92831,
+                  "end": 149.04805,
+                  "confidence": 0.98583984,
+                  "punctuated_word": "on"
+                },
+                {
+                  "word": "the",
+                  "start": 149.04805,
+                  "end": 149.28752,
+                  "confidence": 0.98779297,
+                  "punctuated_word": "the"
+                },
+                {
+                  "word": "food",
+                  "start": 149.28752,
+                  "end": 149.78752,
+                  "confidence": 0.8564453,
+                  "punctuated_word": "food."
+                },
+                {
+                  "word": "this",
+                  "start": 150.20547,
+                  "end": 150.48485,
+                  "confidence": 0.99658203,
+                  "punctuated_word": "This"
+                },
+                {
+                  "word": "cooking",
+                  "start": 150.48485,
+                  "end": 150.80414,
+                  "confidence": 0.7583008,
+                  "punctuated_word": "cooking"
+                },
+                {
+                  "word": "method",
+                  "start": 150.80414,
+                  "end": 151.28308,
+                  "confidence": 0.4020996,
+                  "punctuated_word": "method"
+                },
+                {
+                  "word": "is",
+                  "start": 151.28308,
+                  "end": 151.56245,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "is"
+                },
+                {
+                  "word": "called",
+                  "start": 151.56245,
+                  "end": 151.92165,
+                  "confidence": 0.6381836,
+                  "punctuated_word": "called"
+                },
+                {
+                  "word": "bowel",
+                  "start": 151.92165,
+                  "end": 152.16112,
+                  "confidence": 0.28149414,
+                  "punctuated_word": "bowel."
+                },
+                {
+                  "word": "next",
+                  "start": 152.975,
+                  "end": 153.335,
+                  "confidence": 0.9995117,
+                  "punctuated_word": "Next"
+                },
+                {
+                  "word": "one",
+                  "start": 153.335,
+                  "end": 153.455,
+                  "confidence": 0.9926758,
+                  "punctuated_word": "one,"
+                },
+                {
+                  "word": "i",
+                  "start": 153.615,
+                  "end": 153.735,
+                  "confidence": 0.97216797,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "will",
+                  "start": 153.735,
+                  "end": 153.855,
+                  "confidence": 0.9658203,
+                  "punctuated_word": "will"
+                },
+                {
+                  "word": "be",
+                  "start": 153.855,
+                  "end": 154.05501,
+                  "confidence": 0.9838867,
+                  "punctuated_word": "be"
+                },
+                {
+                  "word": "talking",
+                  "start": 154.05501,
+                  "end": 154.49501,
+                  "confidence": 0.99853516,
+                  "punctuated_word": "talking"
+                },
+                {
+                  "word": "about",
+                  "start": 154.49501,
+                  "end": 154.77501,
+                  "confidence": 0.9995117,
+                  "punctuated_word": "about."
+                },
+                {
+                  "word": "also",
+                  "start": 157.255,
+                  "end": 157.755,
+                  "confidence": 0.1817627,
+                  "punctuated_word": "Also"
+                },
+                {
+                  "word": "you",
+                  "start": 158.05501,
+                  "end": 158.495,
+                  "confidence": 0.47827148,
+                  "punctuated_word": "you"
+                },
+                {
+                  "word": "have",
+                  "start": 158.495,
+                  "end": 158.935,
+                  "confidence": 0.9736328,
+                  "punctuated_word": "have"
+                },
+                {
+                  "word": "light",
+                  "start": 158.935,
+                  "end": 159.215,
+                  "confidence": 0.9584961,
+                  "punctuated_word": "light"
+                },
+                {
+                  "word": "as",
+                  "start": 159.215,
+                  "end": 159.575,
+                  "confidence": 0.5913086,
+                  "punctuated_word": "as"
+                },
+                {
+                  "word": "sweet",
+                  "start": 159.575,
+                  "end": 160.015,
+                  "confidence": 0.796875,
+                  "punctuated_word": "sweet"
+                },
+                {
+                  "word": "flavor",
+                  "start": 160.015,
+                  "end": 160.335,
+                  "confidence": 0.99560547,
+                  "punctuated_word": "flavor."
+                },
+                {
+                  "word": "there",
+                  "start": 161.2686,
+                  "end": 161.58786,
+                  "confidence": 0.35668945,
+                  "punctuated_word": "There"
+                },
+                {
+                  "word": "just",
+                  "start": 161.58786,
+                  "end": 162.08786,
+                  "confidence": 0.8286133,
+                  "punctuated_word": "just"
+                },
+                {
+                  "word": "use",
+                  "start": 162.2264,
+                  "end": 162.50577,
+                  "confidence": 0.9121094,
+                  "punctuated_word": "use"
+                },
+                {
+                  "word": "very",
+                  "start": 162.50577,
+                  "end": 163.00577,
+                  "confidence": 0.99365234,
+                  "punctuated_word": "very"
+                },
+                {
+                  "word": "elaborate",
+                  "start": 163.02458,
+                  "end": 163.52458,
+                  "confidence": 0.99365234,
+                  "punctuated_word": "elaborate"
+                },
+                {
+                  "word": "and",
+                  "start": 163.5833,
+                  "end": 164.0833,
+                  "confidence": 0.9921875,
+                  "punctuated_word": "and"
+                },
+                {
+                  "word": "precise",
+                  "start": 164.14201,
+                  "end": 164.50119,
+                  "confidence": 0.99658203,
+                  "punctuated_word": "precise"
+                },
+                {
+                  "word": "cookie",
+                  "start": 164.50119,
+                  "end": 164.86038,
+                  "confidence": 0.67871094,
+                  "punctuated_word": "cookie"
+                },
+                {
+                  "word": "method",
+                  "start": 164.86038,
+                  "end": 165.36038,
+                  "confidence": 0.98779297,
+                  "punctuated_word": "method"
+                },
+                {
+                  "word": "and",
+                  "start": 165.53882,
+                  "end": 166.03882,
+                  "confidence": 0.9902344,
+                  "punctuated_word": "and"
+                },
+                {
+                  "word": "presentation",
+                  "start": 166.25717,
+                  "end": 166.75717,
+                  "confidence": 0.9897461,
+                  "punctuated_word": "presentation."
+                },
+                {
+                  "word": "the",
+                  "start": 167.6939,
+                  "end": 168.1939,
+                  "confidence": 0.8022461,
+                  "punctuated_word": "The"
+                },
+                {
+                  "word": "method",
+                  "start": 168.29253,
+                  "end": 168.73152,
+                  "confidence": 0.68603516,
+                  "punctuated_word": "method"
+                },
+                {
+                  "word": "are",
+                  "start": 168.73152,
+                  "end": 168.97096,
+                  "confidence": 0.9819336,
+                  "punctuated_word": "are"
+                },
+                {
+                  "word": "more",
+                  "start": 168.97096,
+                  "end": 169.40501,
+                  "confidence": 0.9609375,
+                  "punctuated_word": "more"
+                },
+                {
+                  "word": "pack",
+                  "start": 169.5446,
+                  "end": 170.0446,
+                  "confidence": 0.14233398,
+                  "punctuated_word": "pack"
+                },
+                {
+                  "word": "frying",
+                  "start": 170.66124,
+                  "end": 171.16124,
+                  "confidence": 0.79833984,
+                  "punctuated_word": "frying."
+                },
+                {
+                  "word": "they",
+                  "start": 171.53859,
+                  "end": 171.77788,
+                  "confidence": 0.56152344,
+                  "punctuated_word": "They"
+                },
+                {
+                  "word": "company's",
+                  "start": 171.77788,
+                  "end": 172.27788,
+                  "confidence": 0.3010254,
+                  "punctuated_word": "company's"
+                },
+                {
+                  "word": "do",
+                  "start": 172.49571,
+                  "end": 172.99571,
+                  "confidence": 0.40600586,
+                  "punctuated_word": "do"
+                },
+                {
+                  "word": "brace",
+                  "start": 173.41295,
+                  "end": 173.91295,
+                  "confidence": 0.61328125,
+                  "punctuated_word": "brace,"
+                },
+                {
+                  "word": "simmer",
+                  "start": 174.25043,
+                  "end": 174.75043,
+                  "confidence": 0.76220703,
+                  "punctuated_word": "simmer"
+                },
+                {
+                  "word": "and",
+                  "start": 174.92839,
+                  "end": 175.3272,
+                  "confidence": 0.9790039,
+                  "punctuated_word": "and"
+                },
+                {
+                  "word": "warmth",
+                  "start": 175.3272,
+                  "end": 175.8272,
+                  "confidence": 0.76660156,
+                  "punctuated_word": "warmth"
+                },
+                {
+                  "word": "preserved",
+                  "start": 176.08492,
+                  "end": 176.58492,
+                  "confidence": 0.9863281,
+                  "punctuated_word": "preserved"
+                },
+                {
+                  "word": "original",
+                  "start": 176.64323,
+                  "end": 177.14323,
+                  "confidence": 0.98095703,
+                  "punctuated_word": "original"
+                },
+                {
+                  "word": "flavor",
+                  "start": 177.20155,
+                  "end": 177.70155,
+                  "confidence": 0.9892578,
+                  "punctuated_word": "flavor"
+                },
+                {
+                  "word": "and",
+                  "start": 177.75987,
+                  "end": 177.95927,
+                  "confidence": 0.99560547,
+                  "punctuated_word": "and"
+                },
+                {
+                  "word": "to",
+                  "start": 177.95927,
+                  "end": 178.11879,
+                  "confidence": 0.79052734,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "maintain",
+                  "start": 178.11879,
+                  "end": 178.61879,
+                  "confidence": 0.9746094,
+                  "punctuated_word": "maintain"
+                },
+                {
+                  "word": "clarity",
+                  "start": 178.79675,
+                  "end": 179.29675,
+                  "confidence": 0.9926758,
+                  "punctuated_word": "clarity"
+                },
+                {
+                  "word": "freshness",
+                  "start": 179.92929,
+                  "end": 180.42929,
+                  "confidence": 0.99560547,
+                  "punctuated_word": "freshness"
+                },
+                {
+                  "word": "and",
+                  "start": 180.64832,
+                  "end": 180.88799,
+                  "confidence": 0.9970703,
+                  "punctuated_word": "and"
+                },
+                {
+                  "word": "white",
+                  "start": 180.88799,
+                  "end": 181.36734,
+                  "confidence": 0.53808594,
+                  "punctuated_word": "white."
+                },
+                {
+                  "word": "the",
+                  "start": 182.7255,
+                  "end": 182.96518,
+                  "confidence": 0.99609375,
+                  "punctuated_word": "The"
+                },
+                {
+                  "word": "second",
+                  "start": 182.96518,
+                  "end": 183.46518,
+                  "confidence": 0.5214844,
+                  "punctuated_word": "second"
+                },
+                {
+                  "word": "third",
+                  "start": 183.48447,
+                  "end": 183.7641,
+                  "confidence": 1,
+                  "punctuated_word": "third"
+                },
+                {
+                  "word": "one",
+                  "start": 183.7641,
+                  "end": 184.00377,
+                  "confidence": 0.9736328,
+                  "punctuated_word": "one"
+                },
+                {
+                  "word": "we're",
+                  "start": 184.00377,
+                  "end": 184.24345,
+                  "confidence": 0.92871094,
+                  "punctuated_word": "we're"
+                },
+                {
+                  "word": "gonna",
+                  "start": 184.24345,
+                  "end": 184.48312,
+                  "confidence": 0.5883789,
+                  "punctuated_word": "gonna"
+                },
+                {
+                  "word": "talk",
+                  "start": 184.48312,
+                  "end": 184.88258,
+                  "confidence": 0.98046875,
+                  "punctuated_word": "talk"
+                },
+                {
+                  "word": "about",
+                  "start": 184.88258,
+                  "end": 185.0823,
+                  "confidence": 0.9995117,
+                  "punctuated_word": "about"
+                },
+                {
+                  "word": "is",
+                  "start": 185.0823,
+                  "end": 185.44182,
+                  "confidence": 0.9848633,
+                  "punctuated_word": "is"
+                },
+                {
+                  "word": "sip",
+                  "start": 185.44182,
+                  "end": 185.94182,
+                  "confidence": 0.3334961,
+                  "punctuated_word": "sip."
+                },
+                {
+                  "word": "they're",
+                  "start": 187.69203,
+                  "end": 187.9711,
+                  "confidence": 0.5332031,
+                  "punctuated_word": "They're"
+                },
+                {
+                  "word": "famous",
+                  "start": 187.9711,
+                  "end": 188.40964,
+                  "confidence": 0.9614258,
+                  "punctuated_word": "famous"
+                },
+                {
+                  "word": "of",
+                  "start": 188.40964,
+                  "end": 188.88805,
+                  "confidence": 0.98779297,
+                  "punctuated_word": "of"
+                },
+                {
+                  "word": "hot",
+                  "start": 188.88805,
+                  "end": 189.36646,
+                  "confidence": 0.9819336,
+                  "punctuated_word": "hot"
+                },
+                {
+                  "word": "spicy",
+                  "start": 189.36646,
+                  "end": 189.86646,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "spicy"
+                },
+                {
+                  "word": "taste",
+                  "start": 189.92459,
+                  "end": 190.32327,
+                  "confidence": 0.9946289,
+                  "punctuated_word": "taste"
+                },
+                {
+                  "word": "and",
+                  "start": 190.32327,
+                  "end": 190.56247,
+                  "confidence": 0.99658203,
+                  "punctuated_word": "and"
+                },
+                {
+                  "word": "numbing",
+                  "start": 190.56247,
+                  "end": 191.06247,
+                  "confidence": 0.46728516,
+                  "punctuated_word": "numbing"
+                },
+                {
+                  "word": "flavor",
+                  "start": 191.20035,
+                  "end": 191.55914,
+                  "confidence": 0.99072266,
+                  "punctuated_word": "flavor."
+                },
+                {
+                  "word": "the",
+                  "start": 192.43623,
+                  "end": 192.7153,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "The"
+                },
+                {
+                  "word": "reason",
+                  "start": 192.7153,
+                  "end": 193.2153,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "reason"
+                },
+                {
+                  "word": "that",
+                  "start": 193.23358,
+                  "end": 193.4329,
+                  "confidence": 0.9921875,
+                  "punctuated_word": "that"
+                },
+                {
+                  "word": "this",
+                  "start": 193.4329,
+                  "end": 193.75185,
+                  "confidence": 0.35009766,
+                  "punctuated_word": "this"
+                },
+                {
+                  "word": "love",
+                  "start": 193.75185,
+                  "end": 194.07079,
+                  "confidence": 0.37768555,
+                  "punctuated_word": "love"
+                },
+                {
+                  "word": "spicy",
+                  "start": 194.07079,
+                  "end": 194.46947,
+                  "confidence": 0.9995117,
+                  "punctuated_word": "spicy"
+                },
+                {
+                  "word": "food",
+                  "start": 194.46947,
+                  "end": 194.74854,
+                  "confidence": 0.83984375,
+                  "punctuated_word": "food"
+                },
+                {
+                  "word": "is",
+                  "start": 194.74854,
+                  "end": 195.22694,
+                  "confidence": 0.99658203,
+                  "punctuated_word": "is"
+                },
+                {
+                  "word": "because",
+                  "start": 195.22694,
+                  "end": 195.72694,
+                  "confidence": 0.99609375,
+                  "punctuated_word": "because"
+                },
+                {
+                  "word": "is",
+                  "start": 196.63902,
+                  "end": 197.13902,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "is"
+                },
+                {
+                  "word": "running",
+                  "start": 197.1584,
+                  "end": 197.51797,
+                  "confidence": 0.6142578,
+                  "punctuated_word": "running"
+                },
+                {
+                  "word": "by",
+                  "start": 197.51797,
+                  "end": 197.71773,
+                  "confidence": 0.9995117,
+                  "punctuated_word": "by"
+                },
+                {
+                  "word": "mountains",
+                  "start": 197.71773,
+                  "end": 198.21773,
+                  "confidence": 0.9458008,
+                  "punctuated_word": "mountains."
+                },
+                {
+                  "word": "they",
+                  "start": 200.35458,
+                  "end": 200.63425,
+                  "confidence": 0.99658203,
+                  "punctuated_word": "they"
+                },
+                {
+                  "word": "have",
+                  "start": 200.63425,
+                  "end": 200.87395,
+                  "confidence": 0.98535156,
+                  "punctuated_word": "have"
+                },
+                {
+                  "word": "very",
+                  "start": 200.87395,
+                  "end": 201.23352,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "very"
+                },
+                {
+                  "word": "humid",
+                  "start": 201.23352,
+                  "end": 201.71295,
+                  "confidence": 0.8310547,
+                  "punctuated_word": "humid"
+                },
+                {
+                  "word": "weather",
+                  "start": 201.71295,
+                  "end": 202.03256,
+                  "confidence": 0.99560547,
+                  "punctuated_word": "weather,"
+                },
+                {
+                  "word": "which",
+                  "start": 202.47205,
+                  "end": 202.75171,
+                  "confidence": 0.9980469,
+                  "punctuated_word": "which"
+                },
+                {
+                  "word": "gives",
+                  "start": 202.75171,
+                  "end": 203.03137,
+                  "confidence": 0.9453125,
+                  "punctuated_word": "gives"
+                },
+                {
+                  "word": "them",
+                  "start": 203.03137,
+                  "end": 203.23112,
+                  "confidence": 0.9995117,
+                  "punctuated_word": "them"
+                },
+                {
+                  "word": "a",
+                  "start": 203.23112,
+                  "end": 203.5108,
+                  "confidence": 0.99853516,
+                  "punctuated_word": "a"
+                },
+                {
+                  "word": "hard",
+                  "start": 203.5108,
+                  "end": 203.87036,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "hard"
+                },
+                {
+                  "word": "time",
+                  "start": 203.87036,
+                  "end": 204.18501,
+                  "confidence": 0.9926758,
+                  "punctuated_word": "time"
+                },
+                {
+                  "word": "to",
+                  "start": 204.3644,
+                  "end": 204.56372,
+                  "confidence": 0.9741211,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "keep",
+                  "start": 204.56372,
+                  "end": 204.88263,
+                  "confidence": 0.97509766,
+                  "punctuated_word": "keep"
+                },
+                {
+                  "word": "warm",
+                  "start": 204.88263,
+                  "end": 205.16167,
+                  "confidence": 0.9995117,
+                  "punctuated_word": "warm"
+                },
+                {
+                  "word": "in",
+                  "start": 205.16167,
+                  "end": 205.32112,
+                  "confidence": 0.9746094,
+                  "punctuated_word": "in"
+                },
+                {
+                  "word": "the",
+                  "start": 205.32112,
+                  "end": 205.48058,
+                  "confidence": 0.98779297,
+                  "punctuated_word": "the"
+                },
+                {
+                  "word": "winter",
+                  "start": 205.48058,
+                  "end": 205.98058,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "winter."
+                },
+                {
+                  "word": "so",
+                  "start": 206.79608,
+                  "end": 207.29608,
+                  "confidence": 0.99658203,
+                  "punctuated_word": "So"
+                },
+                {
+                  "word": "it",
+                  "start": 207.67308,
+                  "end": 207.83253,
+                  "confidence": 0.99365234,
+                  "punctuated_word": "it"
+                },
+                {
+                  "word": "is",
+                  "start": 207.83253,
+                  "end": 208.15144,
+                  "confidence": 0.98828125,
+                  "punctuated_word": "is"
+                },
+                {
+                  "word": "basic",
+                  "start": 208.15144,
+                  "end": 208.65144,
+                  "confidence": 0.8881836,
+                  "punctuated_word": "basic"
+                },
+                {
+                  "word": "effectively",
+                  "start": 209.10817,
+                  "end": 209.60817,
+                  "confidence": 0.7006836,
+                  "punctuated_word": "effectively"
+                },
+                {
+                  "word": "helping",
+                  "start": 209.90544,
+                  "end": 210.30408,
+                  "confidence": 0.9892578,
+                  "punctuated_word": "helping"
+                },
+                {
+                  "word": "them",
+                  "start": 210.30408,
+                  "end": 210.78244,
+                  "confidence": 0.9272461,
+                  "punctuated_word": "them"
+                },
+                {
+                  "word": "sweat",
+                  "start": 210.78244,
+                  "end": 211.0615,
+                  "confidence": 0.89160156,
+                  "punctuated_word": "sweat"
+                },
+                {
+                  "word": "and",
+                  "start": 211.0615,
+                  "end": 211.34053,
+                  "confidence": 0.9941406,
+                  "punctuated_word": "and"
+                },
+                {
+                  "word": "get",
+                  "start": 211.34053,
+                  "end": 211.53986,
+                  "confidence": 0.8745117,
+                  "punctuated_word": "get"
+                },
+                {
+                  "word": "rid",
+                  "start": 211.53986,
+                  "end": 211.69931,
+                  "confidence": 0.99853516,
+                  "punctuated_word": "rid"
+                },
+                {
+                  "word": "of",
+                  "start": 211.69931,
+                  "end": 211.89862,
+                  "confidence": 0.9897461,
+                  "punctuated_word": "of"
+                },
+                {
+                  "word": "that",
+                  "start": 211.89862,
+                  "end": 212.21753,
+                  "confidence": 0.9169922,
+                  "punctuated_word": "that"
+                },
+                {
+                  "word": "code",
+                  "start": 212.21753,
+                  "end": 212.57631,
+                  "confidence": 0.98779297,
+                  "punctuated_word": "code."
+                },
+                {
+                  "word": "now",
+                  "start": 213.50887,
+                  "end": 213.6286,
+                  "confidence": 0.9819336,
+                  "punctuated_word": "Now"
+                },
+                {
+                  "word": "su",
+                  "start": 213.74835,
+                  "end": 214.24835,
+                  "confidence": 0.5317383,
+                  "punctuated_word": "Su"
+                },
+                {
+                  "word": "is",
+                  "start": 214.50673,
+                  "end": 214.7063,
+                  "confidence": 0.9658203,
+                  "punctuated_word": "is"
+                },
+                {
+                  "word": "the",
+                  "start": 214.7063,
+                  "end": 214.94579,
+                  "confidence": 0.9980469,
+                  "punctuated_word": "the"
+                },
+                {
+                  "word": "most",
+                  "start": 214.94579,
+                  "end": 215.38484,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "most"
+                },
+                {
+                  "word": "white",
+                  "start": 215.38484,
+                  "end": 215.88484,
+                  "confidence": 0.8432617,
+                  "punctuated_word": "white"
+                },
+                {
+                  "word": "service",
+                  "start": 215.94365,
+                  "end": 216.44365,
+                  "confidence": 0.3017578,
+                  "punctuated_word": "service"
+                },
+                {
+                  "word": "cuisine",
+                  "start": 217.02135,
+                  "end": 217.38057,
+                  "confidence": 0.4753418,
+                  "punctuated_word": "cuisine"
+                },
+                {
+                  "word": "in",
+                  "start": 217.38057,
+                  "end": 217.50032,
+                  "confidence": 0.9946289,
+                  "punctuated_word": "in"
+                },
+                {
+                  "word": "china",
+                  "start": 217.69989,
+                  "end": 218.19989,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "China."
+                },
+                {
+                  "word": "same",
+                  "start": 218.53809,
+                  "end": 218.73767,
+                  "confidence": 0.9868164,
+                  "punctuated_word": "Same"
+                },
+                {
+                  "word": "as",
+                  "start": 218.73767,
+                  "end": 219.21664,
+                  "confidence": 0.99658203,
+                  "punctuated_word": "as"
+                },
+                {
+                  "word": "the",
+                  "start": 219.21664,
+                  "end": 219.45613,
+                  "confidence": 0.1854248,
+                  "punctuated_word": "the"
+                },
+                {
+                  "word": "trunk",
+                  "start": 219.45613,
+                  "end": 219.6557,
+                  "confidence": 0.97021484,
+                  "punctuated_word": "trunk"
+                },
+                {
+                  "word": "with",
+                  "start": 219.6557,
+                  "end": 219.97502,
+                  "confidence": 0.35009766,
+                  "punctuated_word": "with"
+                },
+                {
+                  "word": "dishes",
+                  "start": 219.97502,
+                  "end": 220.41408,
+                  "confidence": 0.9819336,
+                  "punctuated_word": "dishes"
+                },
+                {
+                  "word": "that",
+                  "start": 220.41408,
+                  "end": 220.53381,
+                  "confidence": 0.9941406,
+                  "punctuated_word": "that"
+                },
+                {
+                  "word": "you",
+                  "start": 220.53381,
+                  "end": 220.7334,
+                  "confidence": 0.9863281,
+                  "punctuated_word": "you"
+                },
+                {
+                  "word": "guys",
+                  "start": 220.7334,
+                  "end": 221.0527,
+                  "confidence": 0.9916992,
+                  "punctuated_word": "guys"
+                },
+                {
+                  "word": "probably",
+                  "start": 221.0527,
+                  "end": 221.5527,
+                  "confidence": 0.94873047,
+                  "punctuated_word": "probably"
+                },
+                {
+                  "word": "know",
+                  "start": 221.5716,
+                  "end": 221.851,
+                  "confidence": 0.9394531,
+                  "punctuated_word": "know"
+                },
+                {
+                  "word": "are",
+                  "start": 221.851,
+                  "end": 222.32501,
+                  "confidence": 0.9633789,
+                  "punctuated_word": "are"
+                },
+                {
+                  "word": "now",
+                  "start": 222.58446,
+                  "end": 223.08446,
+                  "confidence": 0.5463867,
+                  "punctuated_word": "now"
+                },
+                {
+                  "word": "and",
+                  "start": 223.74202,
+                  "end": 224.24202,
+                  "confidence": 0.9790039,
+                  "punctuated_word": "and."
+                },
+                {
+                  "word": "and",
+                  "start": 228.13274,
+                  "end": 228.3323,
+                  "confidence": 0.9716797,
+                  "punctuated_word": "And"
+                },
+                {
+                  "word": "the",
+                  "start": 228.3323,
+                  "end": 228.61172,
+                  "confidence": 0.9707031,
+                  "punctuated_word": "the"
+                },
+                {
+                  "word": "last",
+                  "start": 228.61172,
+                  "end": 228.89113,
+                  "confidence": 0.9995117,
+                  "punctuated_word": "last"
+                },
+                {
+                  "word": "one",
+                  "start": 228.89113,
+                  "end": 229.09071,
+                  "confidence": 0.9951172,
+                  "punctuated_word": "one"
+                },
+                {
+                  "word": "we're",
+                  "start": 229.09071,
+                  "end": 229.3302,
+                  "confidence": 0.94628906,
+                  "punctuated_word": "we're"
+                },
+                {
+                  "word": "going",
+                  "start": 229.3302,
+                  "end": 229.52979,
+                  "confidence": 0.9667969,
+                  "punctuated_word": "going"
+                },
+                {
+                  "word": "to",
+                  "start": 229.52979,
+                  "end": 229.72935,
+                  "confidence": 0.9682617,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "talk",
+                  "start": 229.72935,
+                  "end": 230.04868,
+                  "confidence": 0.984375,
+                  "punctuated_word": "talk"
+                },
+                {
+                  "word": "about",
+                  "start": 230.04868,
+                  "end": 230.28818,
+                  "confidence": 0.9628906,
+                  "punctuated_word": "about"
+                },
+                {
+                  "word": "is",
+                  "start": 230.28818,
+                  "end": 230.78818,
+                  "confidence": 0.61376953,
+                  "punctuated_word": "is."
+                },
+                {
+                  "word": "in",
+                  "start": 232.09966,
+                  "end": 232.17955,
+                  "confidence": 0.99853516,
+                  "punctuated_word": "In"
+                },
+                {
+                  "word": "china",
+                  "start": 232.3793,
+                  "end": 232.73886,
+                  "confidence": 0.9711914,
+                  "punctuated_word": "China,"
+                },
+                {
+                  "word": "we",
+                  "start": 232.89867,
+                  "end": 233.09842,
+                  "confidence": 0.9785156,
+                  "punctuated_word": "we"
+                },
+                {
+                  "word": "have",
+                  "start": 233.09842,
+                  "end": 233.25822,
+                  "confidence": 0.99853516,
+                  "punctuated_word": "have"
+                },
+                {
+                  "word": "to",
+                  "start": 233.25822,
+                  "end": 233.45798,
+                  "confidence": 0.64990234,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "joke",
+                  "start": 233.45798,
+                  "end": 233.81754,
+                  "confidence": 0.8515625,
+                  "punctuated_word": "joke"
+                },
+                {
+                  "word": "saying",
+                  "start": 233.81754,
+                  "end": 234.13713,
+                  "confidence": 0.9980469,
+                  "punctuated_word": "saying"
+                },
+                {
+                  "word": "that",
+                  "start": 234.13713,
+                  "end": 234.5766,
+                  "confidence": 0.99853516,
+                  "punctuated_word": "that"
+                },
+                {
+                  "word": "people",
+                  "start": 234.5766,
+                  "end": 234.9761,
+                  "confidence": 0.9970703,
+                  "punctuated_word": "people"
+                },
+                {
+                  "word": "from",
+                  "start": 234.9761,
+                  "end": 235.25575,
+                  "confidence": 0.99365234,
+                  "punctuated_word": "from"
+                },
+                {
+                  "word": "southern",
+                  "start": 235.25575,
+                  "end": 235.75575,
+                  "confidence": 0.79248047,
+                  "punctuated_word": "southern"
+                },
+                {
+                  "word": "providers",
+                  "start": 235.85501,
+                  "end": 236.05478,
+                  "confidence": 0.671875,
+                  "punctuated_word": "providers"
+                },
+                {
+                  "word": "at",
+                  "start": 236.05478,
+                  "end": 236.41432,
+                  "confidence": 0.65283203,
+                  "punctuated_word": "at"
+                },
+                {
+                  "word": "school",
+                  "start": 236.41432,
+                  "end": 236.57413,
+                  "confidence": 0.7836914,
+                  "punctuated_word": "school."
+                },
+                {
+                  "word": "will",
+                  "start": 237.6528,
+                  "end": 237.85255,
+                  "confidence": 0.52197266,
+                  "punctuated_word": "Will"
+                },
+                {
+                  "word": "eat",
+                  "start": 237.85255,
+                  "end": 238.09225,
+                  "confidence": 0.6118164,
+                  "punctuated_word": "eat"
+                },
+                {
+                  "word": "everything",
+                  "start": 238.09225,
+                  "end": 238.59225,
+                  "confidence": 0.96728516,
+                  "punctuated_word": "everything"
+                },
+                {
+                  "word": "with",
+                  "start": 238.61162,
+                  "end": 238.93123,
+                  "confidence": 0.9819336,
+                  "punctuated_word": "with"
+                },
+                {
+                  "word": "four",
+                  "start": 238.93123,
+                  "end": 239.17093,
+                  "confidence": 0.95947266,
+                  "punctuated_word": "four"
+                },
+                {
+                  "word": "legs",
+                  "start": 239.17093,
+                  "end": 239.67093,
+                  "confidence": 0.9765625,
+                  "punctuated_word": "legs"
+                },
+                {
+                  "word": "except",
+                  "start": 239.77019,
+                  "end": 239.92502,
+                  "confidence": 0.98535156,
+                  "punctuated_word": "except"
+                },
+                {
+                  "word": "table",
+                  "start": 240.10463,
+                  "end": 240.58359,
+                  "confidence": 0.4560547,
+                  "punctuated_word": "table"
+                },
+                {
+                  "word": "and",
+                  "start": 240.58359,
+                  "end": 240.82307,
+                  "confidence": 0.9819336,
+                  "punctuated_word": "and"
+                },
+                {
+                  "word": "everything",
+                  "start": 240.82307,
+                  "end": 241.32307,
+                  "confidence": 0.99658203,
+                  "punctuated_word": "everything"
+                },
+                {
+                  "word": "that",
+                  "start": 241.38185,
+                  "end": 241.74107,
+                  "confidence": 0.99560547,
+                  "punctuated_word": "that"
+                },
+                {
+                  "word": "flies",
+                  "start": 241.74107,
+                  "end": 242.22005,
+                  "confidence": 0.9814453,
+                  "punctuated_word": "flies"
+                },
+                {
+                  "word": "except",
+                  "start": 242.22005,
+                  "end": 242.72005,
+                  "confidence": 0.7324219,
+                  "punctuated_word": "except"
+                },
+                {
+                  "word": "airplanes",
+                  "start": 242.9784,
+                  "end": 243.4784,
+                  "confidence": 0.46411133,
+                  "punctuated_word": "airplanes."
+                },
+                {
+                  "word": "although",
+                  "start": 244.09598,
+                  "end": 244.57494,
+                  "confidence": 0.9980469,
+                  "punctuated_word": "Although"
+                },
+                {
+                  "word": "it's",
+                  "start": 244.57494,
+                  "end": 244.73459,
+                  "confidence": 0.8745117,
+                  "punctuated_word": "it's"
+                },
+                {
+                  "word": "an",
+                  "start": 244.73459,
+                  "end": 245.23459,
+                  "confidence": 0.3786621,
+                  "punctuated_word": "an,"
+                },
+                {
+                  "word": "they",
+                  "start": 246.49078,
+                  "end": 246.73026,
+                  "confidence": 0.9941406,
+                  "punctuated_word": "they"
+                },
+                {
+                  "word": "do",
+                  "start": 246.73026,
+                  "end": 246.96974,
+                  "confidence": 0.9873047,
+                  "punctuated_word": "do"
+                },
+                {
+                  "word": "have",
+                  "start": 246.96974,
+                  "end": 247.16931,
+                  "confidence": 0.99853516,
+                  "punctuated_word": "have"
+                },
+                {
+                  "word": "some",
+                  "start": 247.16931,
+                  "end": 247.36887,
+                  "confidence": 0.99609375,
+                  "punctuated_word": "some"
+                },
+                {
+                  "word": "issues",
+                  "start": 247.36887,
+                  "end": 247.84784,
+                  "confidence": 0.49731445,
+                  "punctuated_word": "issues"
+                },
+                {
+                  "word": "might",
+                  "start": 247.84784,
+                  "end": 248.08731,
+                  "confidence": 0.29223633,
+                  "punctuated_word": "might"
+                },
+                {
+                  "word": "can",
+                  "start": 248.08731,
+                  "end": 248.3268,
+                  "confidence": 0.67041016,
+                  "punctuated_word": "can"
+                },
+                {
+                  "word": "contain",
+                  "start": 248.3268,
+                  "end": 248.76584,
+                  "confidence": 0.70751953,
+                  "punctuated_word": "contain"
+                },
+                {
+                  "word": "snakes",
+                  "start": 248.76584,
+                  "end": 249.16002,
+                  "confidence": 0.97021484,
+                  "punctuated_word": "snakes"
+                },
+                {
+                  "word": "dogs",
+                  "start": 249.65819,
+                  "end": 250.15819,
+                  "confidence": 0.9506836,
+                  "punctuated_word": "dogs"
+                },
+                {
+                  "word": "and",
+                  "start": 250.17628,
+                  "end": 250.49512,
+                  "confidence": 0.98876953,
+                  "punctuated_word": "and"
+                },
+                {
+                  "word": "seafood",
+                  "start": 250.49512,
+                  "end": 250.99512,
+                  "confidence": 1,
+                  "punctuated_word": "seafood"
+                },
+                {
+                  "word": "that",
+                  "start": 251.57117,
+                  "end": 251.92986,
+                  "confidence": 0.9526367,
+                  "punctuated_word": "that"
+                },
+                {
+                  "word": "not",
+                  "start": 251.92986,
+                  "end": 252.36824,
+                  "confidence": 0.88916016,
+                  "punctuated_word": "not"
+                },
+                {
+                  "word": "familiar",
+                  "start": 252.36824,
+                  "end": 252.76677,
+                  "confidence": 0.99316406,
+                  "punctuated_word": "familiar"
+                },
+                {
+                  "word": "to",
+                  "start": 252.76677,
+                  "end": 252.96605,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "most",
+                  "start": 252.96605,
+                  "end": 253.32472,
+                  "confidence": 0.99316406,
+                  "punctuated_word": "most"
+                },
+                {
+                  "word": "foreigners",
+                  "start": 253.32472,
+                  "end": 253.82472,
+                  "confidence": 0.99853516,
+                  "punctuated_word": "foreigners."
+                },
+                {
+                  "word": "so",
+                  "start": 255.19785,
+                  "end": 255.51668,
+                  "confidence": 0.99365234,
+                  "punctuated_word": "So"
+                },
+                {
+                  "word": "to",
+                  "start": 255.51668,
+                  "end": 255.71594,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "wrap",
+                  "start": 255.71594,
+                  "end": 255.9152,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "wrap"
+                },
+                {
+                  "word": "up",
+                  "start": 255.9152,
+                  "end": 256.11447,
+                  "confidence": 0.8564453,
+                  "punctuated_word": "up"
+                },
+                {
+                  "word": "this",
+                  "start": 256.11447,
+                  "end": 256.61447,
+                  "confidence": 0.9609375,
+                  "punctuated_word": "this"
+                },
+                {
+                  "word": "presentation",
+                  "start": 256.792,
+                  "end": 257.292,
+                  "confidence": 0.97265625,
+                  "punctuated_word": "presentation"
+                },
+                {
+                  "word": "today",
+                  "start": 257.76505,
+                  "end": 257.96503,
+                  "confidence": 0.99658203,
+                  "punctuated_word": "Today,"
+                },
+                {
+                  "word": "we",
+                  "start": 258.12503,
+                  "end": 258.40503,
+                  "confidence": 0.9199219,
+                  "punctuated_word": "we"
+                },
+                {
+                  "word": "talked",
+                  "start": 258.40503,
+                  "end": 258.80502,
+                  "confidence": 0.98876953,
+                  "punctuated_word": "talked"
+                },
+                {
+                  "word": "about",
+                  "start": 258.80502,
+                  "end": 259.00504,
+                  "confidence": 0.9995117,
+                  "punctuated_word": "about"
+                },
+                {
+                  "word": "shin",
+                  "start": 259.12503,
+                  "end": 259.48505,
+                  "confidence": 0.49072266,
+                  "punctuated_word": "Shin,"
+                },
+                {
+                  "word": "which",
+                  "start": 260.44504,
+                  "end": 260.72504,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "which"
+                },
+                {
+                  "word": "has",
+                  "start": 260.72504,
+                  "end": 260.92502,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "has"
+                },
+                {
+                  "word": "a",
+                  "start": 260.92502,
+                  "end": 261.08502,
+                  "confidence": 0.99609375,
+                  "punctuated_word": "a"
+                },
+                {
+                  "word": "lot",
+                  "start": 261.08502,
+                  "end": 261.20502,
+                  "confidence": 0.9926758,
+                  "punctuated_word": "lot"
+                },
+                {
+                  "word": "of",
+                  "start": 261.20502,
+                  "end": 261.48505,
+                  "confidence": 0.9980469,
+                  "punctuated_word": "of"
+                },
+                {
+                  "word": "seafood",
+                  "start": 261.48505,
+                  "end": 261.98505,
+                  "confidence": 1,
+                  "punctuated_word": "seafood."
+                },
+                {
+                  "word": "which",
+                  "start": 264.62006,
+                  "end": 265.10004,
+                  "confidence": 0.9980469,
+                  "punctuated_word": "Which"
+                },
+                {
+                  "word": "has",
+                  "start": 265.10004,
+                  "end": 265.60004,
+                  "confidence": 0.99121094,
+                  "punctuated_word": "has"
+                },
+                {
+                  "word": "light",
+                  "start": 265.90005,
+                  "end": 266.14005,
+                  "confidence": 0.9604492,
+                  "punctuated_word": "light"
+                },
+                {
+                  "word": "as",
+                  "start": 266.14005,
+                  "end": 266.64005,
+                  "confidence": 0.5292969,
+                  "punctuated_word": "as"
+                },
+                {
+                  "word": "sweet",
+                  "start": 266.66003,
+                  "end": 267.06006,
+                  "confidence": 0.86328125,
+                  "punctuated_word": "sweet"
+                },
+                {
+                  "word": "flavor",
+                  "start": 267.06006,
+                  "end": 267.56006,
+                  "confidence": 0.99121094,
+                  "punctuated_word": "flavor."
+                },
+                {
+                  "word": "si",
+                  "start": 268.18005,
+                  "end": 268.42004,
+                  "confidence": 0.234375,
+                  "punctuated_word": "Si"
+                },
+                {
+                  "word": "trunk",
+                  "start": 268.42004,
+                  "end": 268.92004,
+                  "confidence": 0.96240234,
+                  "punctuated_word": "trunk"
+                },
+                {
+                  "word": "with",
+                  "start": 269.30005,
+                  "end": 269.80005,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "with"
+                },
+                {
+                  "word": "spicy",
+                  "start": 269.86005,
+                  "end": 270.34006,
+                  "confidence": 0.9995117,
+                  "punctuated_word": "spicy"
+                },
+                {
+                  "word": "taste",
+                  "start": 270.34006,
+                  "end": 270.66003,
+                  "confidence": 0.99658203,
+                  "punctuated_word": "taste"
+                },
+                {
+                  "word": "and",
+                  "start": 270.66003,
+                  "end": 270.90005,
+                  "confidence": 0.9946289,
+                  "punctuated_word": "and"
+                },
+                {
+                  "word": "numbing",
+                  "start": 270.90005,
+                  "end": 271.38004,
+                  "confidence": 0.28393555,
+                  "punctuated_word": "numbing"
+                },
+                {
+                  "word": "flavored",
+                  "start": 271.38004,
+                  "end": 271.88004,
+                  "confidence": 0.5751953,
+                  "punctuated_word": "flavored"
+                },
+                {
+                  "word": "and",
+                  "start": 272.18774,
+                  "end": 272.54523,
+                  "confidence": 0.9736328,
+                  "punctuated_word": "and"
+                },
+                {
+                  "word": "one",
+                  "start": 272.54523,
+                  "end": 273.04523,
+                  "confidence": 0.9345703,
+                  "punctuated_word": "one"
+                },
+                {
+                  "word": "with",
+                  "start": 273.73682,
+                  "end": 273.93542,
+                  "confidence": 0.99609375,
+                  "punctuated_word": "with"
+                },
+                {
+                  "word": "a",
+                  "start": 273.93542,
+                  "end": 274.17374,
+                  "confidence": 0.95751953,
+                  "punctuated_word": "a"
+                },
+                {
+                  "word": "lot",
+                  "start": 274.17374,
+                  "end": 274.3326,
+                  "confidence": 0.41015625,
+                  "punctuated_word": "lot"
+                },
+                {
+                  "word": "of",
+                  "start": 274.3326,
+                  "end": 274.72983,
+                  "confidence": 0.47143555,
+                  "punctuated_word": "of"
+                },
+                {
+                  "word": "wild",
+                  "start": 274.72983,
+                  "end": 275.127,
+                  "confidence": 0.99560547,
+                  "punctuated_word": "wild"
+                },
+                {
+                  "word": "food",
+                  "start": 275.127,
+                  "end": 275.627,
+                  "confidence": 0.953125,
+                  "punctuated_word": "food."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }

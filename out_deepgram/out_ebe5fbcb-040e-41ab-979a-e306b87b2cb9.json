@@ -1,0 +1,363 @@
+{
+    "metadata": {
+      "transaction_key": "KYn5xYT58pRRH/JiDy+nhVWLU03Uct9dROGLdOb95kjIHA2/LJvzAMWyeyGa0oan5nQI44IkwKRVvahXdBjMp+/6TjrDUN/qHKcoNHhGRN+ujVeqNk4WzyDYqtu3iCkAbQqwJhwNtOcoYH8TK60SS2MR6bbCzO9Q9Mks1+ThQYXgd/6HEc/U8S+3GsHmaaybzFWJg9kUmNpaRsXhMp/laX1a/J4ET+lVBA01Znw8s99Xadiz4SHi1MlzsOFk4mxkD2HOczDrfSMbvC8+fqph8hqw15wB4JMutgXs2VvqbPGrwXsS95Srjk61wbTGNetmePpREq9SoDYHz0OGkMfqvp2OSnN2WNtEGP9r81ZwC3MLXCvo9dWO97vi0WRQ6LPAM6b/HCvO",
+      "request_id": "8ee6f73a-9a4c-46d9-bc62-43c165bf052f",
+      "sha256": "10442ad19b540c4612caad04843e5608f67c2e7861c29584326b896e7609a489",
+      "created": "2022-03-31T18:38:27.093Z",
+      "duration": 38.399185,
+      "channels": 1,
+      "models": [
+        "4899aa60-f723-4517-9815-2042acc12a82"
+      ]
+    },
+    "results": {
+      "channels": [
+        {
+          "alternatives": [
+            {
+              "transcript": "Hello. This is Hu company. How may I help you? I use your company's My Pc is out of order. I understand. Could you call our. Okay. Can you tell me the phone number? Of course one zero zero one nine nine nine. Thanks. I call you later.",
+              "confidence": 0.95751953,
+              "words": [
+                {
+                  "word": "hello",
+                  "start": 8.994306,
+                  "end": 9.494306,
+                  "confidence": 0.98095703,
+                  "punctuated_word": "Hello."
+                },
+                {
+                  "word": "this",
+                  "start": 9.752546,
+                  "end": 9.99199,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "This"
+                },
+                {
+                  "word": "is",
+                  "start": 9.99199,
+                  "end": 10.231435,
+                  "confidence": 0.9951172,
+                  "punctuated_word": "is"
+                },
+                {
+                  "word": "hu",
+                  "start": 10.351157,
+                  "end": 10.830046,
+                  "confidence": 0.22583008,
+                  "punctuated_word": "Hu"
+                },
+                {
+                  "word": "company",
+                  "start": 10.830046,
+                  "end": 11.330046,
+                  "confidence": 0.97021484,
+                  "punctuated_word": "company."
+                },
+                {
+                  "word": "how",
+                  "start": 11.907546,
+                  "end": 12.266712,
+                  "confidence": 0.99853516,
+                  "punctuated_word": "How"
+                },
+                {
+                  "word": "may",
+                  "start": 12.266712,
+                  "end": 12.386435,
+                  "confidence": 0.9980469,
+                  "punctuated_word": "may"
+                },
+                {
+                  "word": "i",
+                  "start": 12.506157,
+                  "end": 12.825417,
+                  "confidence": 0.9951172,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "help",
+                  "start": 12.825417,
+                  "end": 13.184584,
+                  "confidence": 0.81103516,
+                  "punctuated_word": "help"
+                },
+                {
+                  "word": "you",
+                  "start": 13.184584,
+                  "end": 13.38412,
+                  "confidence": 0.9946289,
+                  "punctuated_word": "you?"
+                },
+                {
+                  "word": "i",
+                  "start": 14.3019905,
+                  "end": 14.581343,
+                  "confidence": 0.9824219,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "use",
+                  "start": 14.581343,
+                  "end": 15.060231,
+                  "confidence": 0.6401367,
+                  "punctuated_word": "use"
+                },
+                {
+                  "word": "your",
+                  "start": 15.060231,
+                  "end": 15.419397,
+                  "confidence": 0.8798828,
+                  "punctuated_word": "your"
+                },
+                {
+                  "word": "company's",
+                  "start": 15.419397,
+                  "end": 15.919397,
+                  "confidence": 0.53027344,
+                  "punctuated_word": "company's"
+                },
+                {
+                  "word": "my",
+                  "start": 17.66898,
+                  "end": 17.8285,
+                  "confidence": 0.98876953,
+                  "punctuated_word": "My"
+                },
+                {
+                  "word": "pc",
+                  "start": 17.94814,
+                  "end": 18.4267,
+                  "confidence": 0.62646484,
+                  "punctuated_word": "Pc"
+                },
+                {
+                  "word": "is",
+                  "start": 18.4267,
+                  "end": 18.745739,
+                  "confidence": 0.99560547,
+                  "punctuated_word": "is"
+                },
+                {
+                  "word": "out",
+                  "start": 18.745739,
+                  "end": 19.0249,
+                  "confidence": 0.5625,
+                  "punctuated_word": "out"
+                },
+                {
+                  "word": "of",
+                  "start": 19.0249,
+                  "end": 19.30406,
+                  "confidence": 0.9316406,
+                  "punctuated_word": "of"
+                },
+                {
+                  "word": "order",
+                  "start": 19.30406,
+                  "end": 19.80406,
+                  "confidence": 0.5571289,
+                  "punctuated_word": "order."
+                },
+                {
+                  "word": "i",
+                  "start": 20.77962,
+                  "end": 21.27962,
+                  "confidence": 0.9790039,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "understand",
+                  "start": 21.37782,
+                  "end": 21.65698,
+                  "confidence": 0.9902344,
+                  "punctuated_word": "understand."
+                },
+                {
+                  "word": "could",
+                  "start": 22.69386,
+                  "end": 22.93314,
+                  "confidence": 0.8027344,
+                  "punctuated_word": "Could"
+                },
+                {
+                  "word": "you",
+                  "start": 22.93314,
+                  "end": 23.29206,
+                  "confidence": 0.4645996,
+                  "punctuated_word": "you"
+                },
+                {
+                  "word": "call",
+                  "start": 23.29206,
+                  "end": 23.53134,
+                  "confidence": 0.6713867,
+                  "punctuated_word": "call"
+                },
+                {
+                  "word": "our",
+                  "start": 23.53134,
+                  "end": 24.03134,
+                  "confidence": 0.75878906,
+                  "punctuated_word": "our."
+                },
+                {
+                  "word": "okay",
+                  "start": 26.72174,
+                  "end": 26.88126,
+                  "confidence": 0.9790039,
+                  "punctuated_word": "Okay."
+                },
+                {
+                  "word": "can",
+                  "start": 27.494999,
+                  "end": 27.654999,
+                  "confidence": 0.9995117,
+                  "punctuated_word": "Can"
+                },
+                {
+                  "word": "you",
+                  "start": 27.654999,
+                  "end": 27.935,
+                  "confidence": 0.99609375,
+                  "punctuated_word": "you"
+                },
+                {
+                  "word": "tell",
+                  "start": 27.935,
+                  "end": 28.175,
+                  "confidence": 0.9995117,
+                  "punctuated_word": "tell"
+                },
+                {
+                  "word": "me",
+                  "start": 28.175,
+                  "end": 28.374998,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "me"
+                },
+                {
+                  "word": "the",
+                  "start": 28.374998,
+                  "end": 28.574999,
+                  "confidence": 0.99560547,
+                  "punctuated_word": "the"
+                },
+                {
+                  "word": "phone",
+                  "start": 28.574999,
+                  "end": 28.814999,
+                  "confidence": 0.99365234,
+                  "punctuated_word": "phone"
+                },
+                {
+                  "word": "number",
+                  "start": 28.814999,
+                  "end": 29.314999,
+                  "confidence": 0.9980469,
+                  "punctuated_word": "number?"
+                },
+                {
+                  "word": "of",
+                  "start": 29.974998,
+                  "end": 30.335,
+                  "confidence": 0.7211914,
+                  "punctuated_word": "Of"
+                },
+                {
+                  "word": "course",
+                  "start": 30.335,
+                  "end": 30.835,
+                  "confidence": 0.95751953,
+                  "punctuated_word": "course"
+                },
+                {
+                  "word": "one",
+                  "start": 31.534998,
+                  "end": 32.034996,
+                  "confidence": 0.9980469,
+                  "punctuated_word": "one"
+                },
+                {
+                  "word": "zero",
+                  "start": 32.215,
+                  "end": 32.715,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "zero"
+                },
+                {
+                  "word": "zero",
+                  "start": 32.735,
+                  "end": 33.215,
+                  "confidence": 0.98046875,
+                  "punctuated_word": "zero"
+                },
+                {
+                  "word": "one",
+                  "start": 33.215,
+                  "end": 33.495,
+                  "confidence": 0.98828125,
+                  "punctuated_word": "one"
+                },
+                {
+                  "word": "nine",
+                  "start": 33.495,
+                  "end": 33.695,
+                  "confidence": 0.98779297,
+                  "punctuated_word": "nine"
+                },
+                {
+                  "word": "nine",
+                  "start": 33.695,
+                  "end": 34.135,
+                  "confidence": 0.98876953,
+                  "punctuated_word": "nine"
+                },
+                {
+                  "word": "nine",
+                  "start": 34.135,
+                  "end": 34.635,
+                  "confidence": 0.94433594,
+                  "punctuated_word": "nine."
+                },
+                {
+                  "word": "thanks",
+                  "start": 35.22246,
+                  "end": 35.699703,
+                  "confidence": 0.9873047,
+                  "punctuated_word": "Thanks."
+                },
+                {
+                  "word": "i",
+                  "start": 35.898556,
+                  "end": 36.256485,
+                  "confidence": 0.86621094,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "call",
+                  "start": 36.256485,
+                  "end": 36.495106,
+                  "confidence": 0.9765625,
+                  "punctuated_word": "call"
+                },
+                {
+                  "word": "you",
+                  "start": 36.495106,
+                  "end": 36.69396,
+                  "confidence": 0.9638672,
+                  "punctuated_word": "you"
+                },
+                {
+                  "word": "later",
+                  "start": 36.69396,
+                  "end": 37.19396,
+                  "confidence": 0.7314453,
+                  "punctuated_word": "later."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
